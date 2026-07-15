@@ -1,0 +1,2987 @@
+{
+    "teknik_informatika": {
+        "nama": {
+            "label": "Nama Prodi",
+            "value": "Teknik Informatika"
+        },
+
+        "profil": {
+            "label": "Profil",
+            "value": "Program Studi Teknik Informatika Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan teknologi informasi serta ilmu komputer untuk menghasilkan lulusan yang kompeten, inovatif, dan mampu bersaing di tingkat nasional maupun internasional."
+        },
+
+        "ketua_prodi": {
+            "label": "Ketua Prodi",
+            "value": "Said Fadlan Anshari, S.Kom., M.Kom."
+        },
+        
+        "ketua_jurusan": {
+            "label": "Ketua Jurusan",
+            "value": "Dr. Eng. Muhammad Fikry S.Kom., M.Kom"
+        },
+
+        "sekretaris_jurusan": {
+            "label": "Sekretaris Jurusan",
+            "value": "Hafizh Al Kautsar Aidilof, S.T., M.Kom"
+        },
+
+        "alamat": {
+            "label": "Alamat",
+            "value": "Jurusan Teknik Informatika & Sistem Informasi, 53X7+WFW, Blang Pulo, Muara Satu, Lhokseumawe City, Aceh 24355"
+        },
+
+        "telepon": {
+            "label": "Telepon",
+            "value": "+62-645-41373"
+        },
+
+        "email": {
+            "label": "Email",
+            "value": "informatika@unimal.ac.id"
+        },
+
+        "website": {
+            "label": "Website",
+            "value": "https://informatika.unimal.ac.id"
+        },
+
+        "akreditasi": {
+            "label": "Akreditasi",
+            "value": "B (Baik Sekali) "
+        },
+
+        "fakultas": {
+            "label": "Fakultas",
+            "value": "Fakultas Teknik"
+        },
+        "jenjang":{
+            "label": "jenjang",
+            "value": "Strata I (S1) dengan gelar Sarjana Komputer (S.Kom)"
+        }
+    },
+    "sistem_informasi": {
+        "nama": {
+            "label": "Nama Prodi",
+            "value": "Sistem Informasi"
+        },
+
+        "profil": {
+            "label": "Profil",
+            "value": "Program Studi Sistem Informasi Universitas Malikussaleh merupakan program studi yang berfokus pada pengembangan, penerapan, dan pengelolaan sistem informasi yang mengintegrasikan teknologi informasi dengan proses bisnis untuk menghasilkan lulusan yang kompeten, inovatif, dan mampu menjawab kebutuhan dunia industri serta masyarakat."
+        },
+
+        "ketua_prodi": {
+            "label": "Ketua Prodi",
+            "value": "Ilham Sahputra,S.T.,M.Cs"
+        },
+        "ketua_jurusan": {
+            "label": "Ketua Jurusan",
+            "value": "Prof. Dr. Ir. Dahlan Abdullah, S.T., M.Kom, IPU., ASEAN Eng"
+        },
+
+        "sekretaris_jurusan": {
+            "label": "Sekretaris Jurusan",
+            "value": "Andik Bintoro, S.T., M.Eng"
+        },
+
+        "alamat": {
+            "label": "Alamat",
+            "value": "Jurusan Teknik Informatika & Sistem Informasi, 53X7+WFW, Blang Pulo, Muara Satu, Lhokseumawe City, Aceh 24355"
+        },
+
+        "telepon": {
+            "label": "Telepon",
+            "value": "+62-645-41373"
+        },
+
+        "email": {
+            "label": "Email",
+            "value": "sisteminformasi@unimal.ac.id"
+        },
+
+        "website": {
+            "label": "Website",
+            "value": "https://sisteminformasi.unimal.ac.id/"
+        },
+
+        "akreditasi": {
+            "label": "Akreditasi",
+            "value": "(B) Baik Sekali"
+        },
+
+        "fakultas": {
+            "label": "Fakultas",
+            "value": "Fakultas Teknik"
+        },
+
+        "jenjang": {
+            "label": "Jenjang",
+            "value": "Strata I (S1) dengan gelar Sarjana Komputer (S.Kom)."
+        }
+    },
+    "teknik_elektro": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Teknik Elektro"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Teknik Elektro Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu keteknikan di bidang sistem tenaga listrik, elektronika, sistem kendali, telekomunikasi, dan teknologi informasi untuk menghasilkan lulusan yang kompeten, inovatif, dan mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Teuku Muhammad Ghazali, S.T., M.Eng."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Prof. Dr. Ir. Dahlan Abdullah, S.T., M.Kom, IPU., ASEAN Eng"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Andik Bintoro, S.T., M.Eng"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Jl. Batam No. 16 Bukit Indah, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "te@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://elektro.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Teknik (S.T.)"
+            }
+        },
+        "teknik_kimia": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Teknik Kimia"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Teknik Kimia Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu teknik kimia dalam bidang proses industri, energi, material, lingkungan, dan teknologi berkelanjutan untuk menghasilkan lulusan yang kompeten, inovatif, serta mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Leni Maulinda, S.T., M.T."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Zulnazri, S.Si., M.T."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Novi Sylvia, S.T., M.T."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Teknik Kimia, Jalan Batam No. 2, Komplek Kampus Universitas Malikussaleh Bukit Indah, Desa Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh, Indonesia."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "teknik-kimia@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://teknik-kimia.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Teknik (S.T.)"
+            }
+        },
+        "teknik_industri": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Teknik Industri"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Teknik Industri Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu teknik industri dalam bidang perancangan, pengelolaan, dan optimalisasi sistem terintegrasi yang melibatkan manusia, mesin, material, energi, dan informasi untuk menghasilkan lulusan yang kompeten, inovatif, dan mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Maryuhaini, S.T., M.T."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Maryuhaini, S.T., M.T."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Muhammad Zeki, S.T., M.T."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Teknik Industri, Fakultas Teknik, Kampus Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh 24355."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "teknik.industri@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://industri.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "B (Baik Sekali) "
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Teknik (S.T.)"
+            }
+        },
+        "teknik_mesin": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Teknik Mesin"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Teknik Mesin Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu teknik mesin dalam bidang perancangan, manufaktur, konversi energi, material, serta teknologi tepat guna untuk menghasilkan lulusan yang kompeten, inovatif, dan mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Abdul Rahman, S.T., M.Eng."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Asnawi, S.T., M.Sc."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Ir. Yusri, S.T., M.T."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Teknik Mesin, Mechanical Engineering Laboratory Lt. 2, Kompleks Kampus Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh 24352."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62 821-6200-6677"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "teknikmesin@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://tm.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Teknik (S.T.)"
+            }
+        },
+        "teknik_sipil": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Teknik Sipil"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Teknik Sipil Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu teknik sipil dalam bidang struktur, transportasi, geoteknik, sumber daya air, dan manajemen konstruksi untuk menghasilkan lulusan yang profesional, inovatif, serta mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Nura Usrina, S.T., M.T."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "M. Fauzan, S.T., M.T."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Ir. Husaini, S.T., M.T."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Teknik Sipil, Fakultas Teknik, Kampus Utama Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Provinsi Aceh 24352."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "teknik.sipil@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://sipil.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Teknik (S.T.)"
+            }
+        },
+        "teknik_arsitektur": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Teknik Arsitektur"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Teknik Arsitektur Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu arsitektur dalam bidang perancangan lingkungan binaan, desain arsitektur, perencanaan kawasan, serta pelestarian arsitektur berbasis potensi lokal untuk menghasilkan lulusan yang profesional, kreatif, dan berdaya saing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Ir. Zulfikar, S.T., M.T."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "M. Fauzan, S.T., M.T."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Ir. Husaini, S.T., M.T."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Teknik Arsitektur, Fakultas Teknik, Kampus Utama Cot Tengku Nie Reuleut, Kecamatan Muara Batu, Kabupaten Aceh Utara, Provinsi Aceh, Indonesia."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "arsitektur@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://arsitektur.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Teknik (S.T.)"
+            }
+        },
+        "teknik_logistik": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Teknik Logistik"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Teknik Logistik Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu teknik logistik serta manajemen rantai pasok (supply chain) untuk menghasilkan lulusan yang kompeten dalam perancangan, pengelolaan, dan optimalisasi sistem logistik yang efisien, efektif, dan berdaya saing di tingkat nasional maupun internasasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Ir. Teuku Yuri M. Zagloel, S.T., M.Sc., Ph.D."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Maryuhaini, S.T., M.T."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Muhammad Zeki, S.T., M.T."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Teknik Logistik, Laboratorium Teknik Industri, Jl. Batam No. 1, Kampus Bukit Indah Universitas Malikussaleh, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh 24352."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "teklog@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://logistik.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(C) Baik"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Teknik (S.T.)"
+            }
+        },
+        "teknik_material": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Teknik Material"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Teknik Material Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu material, meliputi material logam, keramik, polimer, komposit, biomaterial, korosi, serta material maju untuk menghasilkan lulusan yang kompeten, inovatif, dan mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Nurmalita, S.Si., M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Zulnazri, S.Si., M.T."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Novi Sylvia, S.T., M.T."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Teknik Material, Fakultas Teknik, Kampus Utama Cot Tengku Nie Reuleut, Kecamatan Muara Batu, Kabupaten Aceh Utara, Provinsi Aceh, Indonesia."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "material@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://material.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(C) Baik"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Teknik (S.T.)"
+            }
+        },
+        "manajemen": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Manajemen"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Manajemen Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu manajemen dalam bidang keuangan, pemasaran, sumber daya manusia, operasional, kepemimpinan, dan kewirausahaan untuk menghasilkan lulusan yang profesional, inovatif, berintegritas, serta mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Chalirafi, S.E., M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Jullimursyida, S.E., M.M., Ph.D."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Iskandarsyah Madjid, S.E., M.M."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Manajemen, Fakultas Ekonomi dan Bisnis, Kampus Utama Cot Tengku Nie Reuleut, Kecamatan Muara Batu, Kabupaten Aceh Utara, Provinsi Aceh, Indonesia."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "manajemen@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://manajemen.feb.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Manajemen (S.M.)"
+            }
+        },
+        "akuntansi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Akuntansi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Akuntansi Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu akuntansi dalam bidang akuntansi keuangan, akuntansi manajemen, auditing, perpajakan, sistem informasi akuntansi, serta sektor publik untuk menghasilkan lulusan yang profesional, berintegritas, inovatif, dan mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Nurhasanah, S.E., M.Si., Ak., CIQA., CIT."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Iswadi, S.E., Ak., M.Si."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Naz'aina, S.E., M.Si., Ak."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Akuntansi, Fakultas Ekonomi dan Bisnis, Kampus Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh 24355."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "akuntansi@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://akuntansi.feb.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Akuntansi (S.Ak.)"
+            }
+        },
+        "ekonomi_pembangunan": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Ekonomi Pembangunan"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Ekonomi Pembangunan Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu ekonomi pembangunan dalam bidang ekonomi regional, ekonomi publik, perencanaan pembangunan, ekonomi sumber daya, serta kebijakan pembangunan untuk menghasilkan lulusan yang profesional, inovatif, dan mampu berkontribusi terhadap pembangunan ekonomi di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Mutia Rahmah, S.E., M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Murtala, S.E., M.Si."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Mukhlish Muhammad Nur, Lc., M.A."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Ekonomi Pembangunan, Fakultas Ekonomi dan Bisnis, Kampus Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh 24355."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "ekp@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://ekp.feb.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Ekonomi (S.E.)"
+            }
+        },
+        "ekonomi_syariah": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Ekonomi Syariah"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Ekonomi Syariah Universitas Malikussaleh merupakan program studi yang berfokus pada pendidikan, penelitian, dan pengembangan ilmu ekonomi, keuangan, bisnis, dan perbankan syariah yang berlandaskan nilai-nilai Islam untuk menghasilkan lulusan yang profesional, berintegritas, inovatif, serta mampu bersaing di tingkat nasional maupun internasional."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Chalirafi, S.E., M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Murtala, S.E., M.Si."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Mukhlish Muhammad Nur, Lc., M.A."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Program Studi Ekonomi Syariah, Fakultas Ekonomi dan Bisnis, Kampus Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh 24355."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62 852-7704-9375"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "ekis@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://ekis.feb.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Ekonomi (S.E.)"
+            }
+        },
+        "magister_teknologi_informasi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Teknologi Informasi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Teknologi Informasi (MTI) Universitas Malikussaleh berada di bawah Fakultas Teknik dan berdiri sejak tahun 2020, menyiapkan lulusan yang profesional, beretika, dan siap menghadapi tantangan era transformasi digital, kecerdasan artifisial, dan analitika data, dengan arah riset pada tata kelola teknologi informasi berbasis potensi lokal Aceh dan Indonesia serta jejaring kerja sama dengan institusi dalam dan luar negeri."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Eng. Defry Hamdhana, S.T., M.Kom."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Eng. Muhammad Fikry S.Kom., M.Kom"
+            },
+
+            "sekretaris jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Hafizh Al Kautsar Aidilof, S.T., M.Kom"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Bukit Indah, Muara Satu, Kota Lhokseumawe, Provinsi Aceh, 24355, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62 645 41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "mti@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://mti.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "Belum Terakreditasi (Akreditasi Sementara)"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan gelar Magister Teknologi Informasi (M.T.I.)"
+            }
+        },
+        "magister_teknik_energi_terbarukan": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Teknik Energi Terbarukan"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Teknik Energi Terbarukan (MTET) merupakan salah satu dari tiga program magister di Fakultas Teknik Universitas Malikussaleh, dibuka sejak tahun 2018 dengan konsentrasi energi air, surya, angin, biomassa, geotermal, dan teknologi hidrogen, mengacu pada Kerangka Kualifikasi Nasional Indonesia (KKNI), untuk mencetak inovator dan pelaku usaha profesional di bidang pengelolaan sumber daya energi berkelanjutan."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Adi Setiawan, S.T., M.T."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Asnawi, S.T., M.Sc"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Nurul Islami, S.T., M.Sc"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Jalan Batam, Kampus Bukit Indah, Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "(0645) 41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "mtet@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://mtet.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan gelar Magister Teknik (M.T.)"
+            }
+        },
+        "magister_teknik_sipil": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Teknik Sipil"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Teknik Sipil Universitas Malikussaleh terus mengembangkan kurikulum yang relevan dengan kebutuhan industri dan teknologi terkini, didukung fasilitas laboratorium yang semakin lengkap, serta menjalin kerja sama dengan berbagai institusi di tingkat lokal, nasional, dan internasional untuk mendukung pembelajaran yang aplikatif di bidang teknik sipil."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Eng. Zulfhazli, S.T., M.T."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "M. Fauzan, S.T., M.T."
+            },
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Ir. Abdul Jalil, S.T., M.T."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "(0645) 41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "mts.unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://mts.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "B (Baik Sekali)"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Teknik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan gelar Magister Teknik (M.T.)"
+            }
+        },
+        "kewirausahaan": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Kewirausahaan"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Kewirausahaan berdiri pada tahun 2020 di lingkungan Fakultas Ekonomi dan Bisnis Universitas Malikussaleh berdasarkan SK Kemendikbud No. 42/M/2020, ditujukan untuk mencetak lulusan yang kompeten sebagai wirausaha pemula, pengelola bisnis, perancang bisnis, dan pengajar di bidang kewirausahaan guna menjawab kebutuhan pengembangan bisnis lokal di tengah perkembangan IPTEK dan ekonomi global."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Agustinawati, S.E., M.B.A."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Iswadi, S.E., Ak., M.Si."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Nazaina, S.E., M.Si."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Aceh"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "(0645) 41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "kewirausahaan@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://kwu.feb.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar "
+            }
+        },
+        "kesekretariatan": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Kesekretariatan"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi D-III Kesekretariatan merupakan salah satu program studi tertua di Fakultas Ekonomi dan Bisnis Universitas Malikussaleh, berdiri sejak 11 September 1989 berdasarkan Kepmendikbud Nomor 0584/0/1989, dan sejak tahun 2002 berada di bawah naungan Fakultas Ekonomi dan Bisnis, dengan fokus mencetak tenaga profesional siap kerja di bidang administrasi perkantoran dan kesekretariatan."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Likdanawati, SE., M.Si"
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Darmawati, S.E., M.M."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "  Dr. Adnan, S.E., M.Si"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Bukit Indah, Jalan Bali, Lhokseumawe, Aceh"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "d3sekretaris.unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://d3sekretaris.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Diploma III (D3)"
+            }
+        },
+        "magister_ilmu_manajemen": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Ilmu Manajemen"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Magister Ilmu Manajemen (PMIM) Fakultas Ekonomi dan Bisnis Universitas Malikussaleh merupakan program studi magister tertua di Unimal, dengan visi menjadi program studi magister yang berdaya saing dalam pengembangan ilmu manajemen berbasis potensi lokal di kawasan Asia Tenggara."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Marbawi, S.E., M.M."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": " Dr. Darmawati, S.E., M.M"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Husaini, S.E., MBA"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Jl. Kampus Unimal Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, 24355, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62 645 41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "ppimfe.unimal.ac.id/"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://ppimfe.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan gelar Magister Manajemen (M.M.)"
+            }
+        },
+        "magister_ilmu_akuntansi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Ilmu Akuntansi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Ilmu Akuntansi Fakultas Ekonomi dan Bisnis Universitas Malikussaleh berdiri sejak tahun 2022, menyelenggarakan pendidikan pascasarjana di bidang akuntansi yang didukung laboratorium komputer akuntansi, perpustakaan, dan akses basis data penelitian, dengan hasil riset dosen dan mahasiswa yang dipublikasikan pada jurnal-jurnal internasional bereputasi."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Ahmad Fauzul Hakim Hasibuan, S.E.I., M.E.I "
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Iswadi, S.E., M.Si., Ak., CA.n"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Nur Afni Yunita, S.E., M.Si., Ak., CA."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Jl. Kampus Unimal Bukit Indah, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, 24355, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62 645 41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "https://magisterakuntansi.unimal.ac.id/"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://magisterakuntansi.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan gelar Magister Akuntansi (M.Ak.)"
+            }
+        },
+        "magister_ekonomi_pembangunan": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Ekonomi Pembangunan"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Ekonomi Pembangunan Fakultas Ekonomi dan Bisnis Universitas Malikussaleh memperoleh izin operasional pada tahun 2020, dirancang agar lulusan memiliki kompetensi di bidang ekonomi regional dan perkotaan untuk merumuskan kebijakan pembangunan yang dapat dipertanggungjawabkan."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Rico Nur Ilham, S.E., M.M"
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Murtala, S.E., M.Si."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Mukhlish Muhammad Nur, Lc., MA."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Jl. Kampus Unimal Bukit Indah, Blang Pulo, Muara Satu, Aceh Utara, Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62 645 41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": ""
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://magisterekp.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2)"
+            }
+        },
+        "sosiologi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Sosiologi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Sosiologi Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh mendidik mahasiswa untuk memahami dinamika sosial dan budaya masyarakat, dengan capaian lulusan sebagai fasilitator pemberdayaan masyarakat, peneliti sosial budaya, konsultan pembangunan, serta ahli resolusi konflik dan perdamaian."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Rizki Yunanda, S.Sosio., M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Ade Ikhsan Kamil, S.Pd.I., M.A. (Jurusan Antropologi dan Sosiologi)"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Cut Rizka Al Usrah, S.Pd., M.A. (Jurusan Antropologi dan Sosiologi)"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Bukit Indah, Jln. Sumatera No. 8, Kecamatan Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373 / +62.645.44450 / +62 812 6049 6894"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "sosiologi@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://sosiologi.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar S.Sos"
+            }
+        },
+        "ilmu_politik": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Ilmu Politik"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Ilmu Politik Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh membekali mahasiswa dengan pemahaman mendalam tentang teori dan praktik politik, serta kemampuan menganalisis isu-isu politik lokal, nasional, maupun global, dengan capaian lulusan sebagai ilmuwan politik, praktisi politik, konsultan politik, dan komunikator politik."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Teuku Muzaffarsyah, S.I.P., M.AP."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Bobby Rahman, S.Sos., M.Si. (Jurusan Ilmu Politik dan Ilmu Komunikasi)"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Kamaruddin, S.Sos., M.Si. (Jurusan Ilmu Politik dan Ilmu Komunikasi)"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Jln. Sumatera No. 8, Kampus Bukit Indah, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62 852-7076-5656"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "ilmu.politik@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://ilmupolitik.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) Dengan Gelar S.I.Pol"
+            }
+        },
+        "ilmu_komunikasi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Ilmu Komunikasi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Ilmu Komunikasi Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh berkomitmen menghasilkan lulusan yang kompeten, kreatif, dan adaptif terhadap perkembangan industri komunikasi dan media, didukung dosen profesional, kurikulum yang relevan, serta fasilitas laboratorium produksi audio visual yang memadai."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Harinawati, S.Sos., M.A."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Bobby Rahman, S.Sos., M.Si. (Jurusan Ilmu Politik dan Ilmu Komunikasi)"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Kamaruddin, S.Sos., M.Si. (Jurusan Ilmu Politik dan Ilmu Komunikasi)"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Bukit Indah, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373 / Fax +62.645.44450"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "prodikomunikasi@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://komunikasi.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan Gelar S.I.Kom"
+            }
+        },
+        "antropologi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Antropologi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Antropologi Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh mempelajari manusia dan masyarakat dalam konteks budaya, sosial, maupun biologis, dengan tiga profil lulusan yaitu fasilitator pengembangan masyarakat, peneliti muda sosial budaya, dan pamong/penggiat budaya."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Ade Ikhsan Kamil, S.Pd.I., M.A."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Abdullah Akhyar Nasution, S.Sos., M.Si."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Cut Rizka Al Usrah, S.Pd., M.A"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Bukit Indah (BI), Jalan Sumatra, Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+6213 9771 5550 / Fax 0645-44450"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "Antropologi@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://antropologi.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan Gelar S.Ant"
+            }
+        },
+        "administrasi_bisnis": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Administrasi Bisnis"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Administrasi Bisnis Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh memiliki visi menjadi program studi unggul di tingkat internasional berbasis potensi bisnis dan ekonomi lokal, mencetak lulusan sebagai wirausahawan, adbispreneur, maupun intrapreneur."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Sufi, M.AP."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Nurhafni"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Ferizaldi, S.E., M.Si."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Gedung Pusat Administrasi Kampus Bukit Indah, Desa Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "admbisnis@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://admbisnis.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan Gelar S.A.B"
+            }
+        },
+        "administrasi_publik": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Administrasi Publik"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Administrasi Publik Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh berkomitmen mencetak generasi pemimpin dan profesional di bidang tata kelola pemerintahan dan pelayanan publik yang kompeten, berintegritas, dan berdedikasi."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Risna Dewi, S.Sos., M.SP., Ph.D"
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Subhani, S.Sos., M.Si"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": " Dr. Ferizaldi, S.E., M.Si"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Bukit Indah (BI), Jalan Sumatra, Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373 / Fax +62.645.44450"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "admpublik@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://admpublik.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar S.Sos"
+            }
+        },
+        "magister_administrasi_publik": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Administrasi Publik"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Administrasi Publik (MAP) Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh menyelenggarakan pendidikan pascasarjana di bidang tata kelola pemerintahan dan kebijakan publik untuk menghasilkan lulusan yang profesional dalam penyelenggaraan administrasi publik."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Maryam, M.S.P."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Subhani, S.Sos., M.Si"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": " Dr. Ferizaldi, S.E., M.Si"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Gedung Pascasarjana Universitas Malikussaleh, Jln. Tgk. Chik Ditiro No. 26, Lancang Garam, PO. BOX 141, Lhokseumawe, Aceh"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62-645-41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "map.fisip.unimal.ac.id/"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://map.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan gelar M.A.P"
+            }
+        },
+        "magister_ilmu_komunikasi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Ilmu Komunikasi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Ilmu Komunikasi Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh merupakan program magister ilmu komunikasi pertama di Aceh, mulai menerima mahasiswa baru angkatan pertama pada Agustus 2025, dengan harapan dapat melahirkan ahli komunikasi yang berkontribusi pada pembangunan Aceh."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Ainol Mardhiah, M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Bobby Rahman, S.Sos., M.Si. (Jurusan Ilmu Politik dan Ilmu Komunikasi)"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Kamaruddin, S.Sos., M.Si. (Jurusan Ilmu Politik dan Ilmu Komunikasi)"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Gedung FISIP, Kampus Bukit Indah, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "komunikasi.fisip.unimal.ac.id/"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://komunikasi.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "Belum ter akreditasi/akreditasi minimum"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan Gelar M.I.Kom"
+            }
+        },
+        "magister_sosiologi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Sosiologi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Sosiologi Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh berfokus pada kajian Sosiologi Perdamaian dan Transformasi Konflik, Sosiologi Pembangunan, serta Modal Sosial dan Kearifan Lokal, dengan lulusan yang mampu berkontribusi di era industri 4.0 dan Society 5.0, khususnya dalam pengembangan tata kelola pemerintahan berbasis keilmuan sosiologi; 95% lulusannya telah bekerja sesuai bidang keilmuan."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Prof. Dr. Saifuddin, S.Pd.I., M.A."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Ade Ikhsan Kamil, S.Pd.I., M.A. (Jurusan Antropologi dan Sosiologi)"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Cut Rizka Al Usrah, S.Pd., M.A. (Jurusan Antropologi dan Sosiologi)"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62 812-6323-1414 / Fax +62 645-44450"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "sosiologi_s2@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://msos.fisip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan Gelar M.Sos"
+            }
+        },
+        "ilmu_hukum": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Ilmu Hukum"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Ilmu Hukum Fakultas Hukum Universitas Malikussaleh menyelenggarakan pendidikan hukum dengan empat konsentrasi peminatan yaitu Hukum Pidana, Hukum Perdata, Hukum Tata Negara, dan Hukum Islam, membekali lulusan dengan pengetahuan advokasi serta keterampilan menguasai semua bidang hukum."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Eko Gani PG, S.H., M.H."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Joelman Subaidi, S.H., M.H."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Yusrizal, S.H., M.H."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Komplek Kampus Bukit Indah (BI), Jalan Jawa, Padang Sakti, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+6282277413463"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "fh@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://sih.law.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Hukum"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Hukum (S.H.)"
+            }
+        },
+        "magister_ilmu_hukum": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Ilmu Hukum"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Ilmu Hukum Fakultas Hukum Universitas Malikussaleh berdiri sejak 17 Oktober 2014 berdasarkan SK Menteri Pendidikan Nasional No. 527/E/O/2014, membekali lulusan dengan penguasaan teori, metodologi, dan materi hukum secara komprehensif untuk berprofesi sebagai praktisi hukum, pemimpin, mediator, peneliti, maupun pendidik."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Muhammad Nasir, S.H., LL.M."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Joelman Subaidi, S.H., M.H."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Yusrizal, S.H., M.H."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Komplek Kampus Bukit Indah (BI), Jalan Jawa, Padang Sakti, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+6282275243466"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "fh@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://mih.law.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Hukum"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan gelar Magister Hukum (M.H.)"
+            }
+        },
+        "doktor_ilmu_hukum": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Doktor Ilmu Hukum"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Doktor Hukum Fakultas Hukum Universitas Malikussaleh merupakan program studi baru yang telah mendapat izin dari Kementerian Pendidikan Tinggi, Sains, dan Teknologi melalui SK Nomor 629/B/O/2025, diharapkan menjadi pusat kajian hukum unggul di wilayah barat Indonesia dan magnet baru bagi pengembangan ilmu hukum di Aceh."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Prof. Dr. Yulia, S.H., M.H."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Joelman Subaidi, S.H., M.H."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Yusrizal, S.H., M.H."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Komplek Kampus Bukit Indah (BI), Jalan Jawa, Padang Sakti, Kota Lhokseumawe, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "082211164430"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "fh@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://dih.law.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "Belum terareditasi/akreditasi awal"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Hukum"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata III (S3)"
+            }
+        },
+        "agroekoteknologi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Agroekoteknologi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Agroekoteknologi Fakultas Pertanian Universitas Malikussaleh menyelenggarakan pendidikan pertanian dengan tiga konsentrasi peminatan yaitu Agronomi, Ilmu Tanah, serta Ilmu Hama dan Penyakit Tanaman, membekali lulusan dengan pengetahuan pengelolaan tanaman serta keterampilan kewirausahaan di sektor perkebunan, pangan, hortikultura, maupun kehutanan."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Hafifah, S.P., M.P."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Ismadi, S.P., M.Si. (Jurusan Budidaya Pertanian)"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Nasruddin, M.Si. (Jurusan Budidaya Pertanian)"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "aet.fp@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://aet.fp.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Pertanian"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Pertanian (S.P.)"
+            }
+        },
+        "agribisnis": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Agribisnis"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Agribisnis Fakultas Pertanian Universitas Malikussaleh menyelenggarakan pendidikan pertanian yang berfokus pada sosial ekonomi pertanian seperti ekonomi makro, ekonomi mikro, manajemen, pemasaran, kewirausahaan, serta penyuluhan pertanian, dengan tiga konsentrasi peminatan yaitu manajemen, pemasaran, dan penyuluhan pertanian."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Riani, S.P., M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Rita Ariani, S.P., M.P."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Martina, S.P., M.Si."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "agribisnis@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://agribisnis.fp.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Pertanian"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Pertanian (S.P.)"
+            }
+        },
+        "akuakultur": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Akuakultur"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Akuakultur Fakultas Pertanian Universitas Malikussaleh (sebelumnya bernama Budidaya Perairan, berganti nama pada 2018 berdasarkan SK Kemenristekdikti No. 491/KPT/I/2018) memiliki keunggulan di bidang Genetika dan Reproduksi Ikan, Manajemen Kualitas Air, Teknologi Budidaya, Manajemen Kesehatan Ikan, dan Nutrisi Ikan, dengan lulusan yang tersebar sebagai praktisi, karyawan swasta, wirausahawan, staf Kementerian Perikanan dan Kelautan, penyuluh perikanan, guru SMK perikanan, hingga akademisi."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Prama Hartami, S.Pi., M.Si"
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Eva Ayuzar, S.Pi, M.Si."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Imam Shadiqin, M.Si"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "fp@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://akuakultur.fp.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Pertanian"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Perikanan (S.Pi.)"
+            }
+        },
+        "ilmu_kelautan": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Ilmu Kelautan"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Ilmu Kelautan Fakultas Pertanian Universitas Malikussaleh mulai menerima mahasiswa baru angkatan pertama pada tahun 2017, menyelenggarakan pendidikan kelautan dengan empat konsentrasi peminatan yaitu Oseanografi, Hidrobiologi, Teknologi, dan Konservasi, membekali lulusan dengan pengetahuan pengelolaan lautan serta keterampilan kewirausahaan berbasis pemanfaatan sumberdaya lokal pesisir dan lautan secara lestari."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Yudho Andika, M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Eva Ayuzar, S.Pi, M.Si."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Imam Shadiqin, M.Si"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "ilmukelautan@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://ilmukelautan.fp.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(C) Baik"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Pertanian"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Perikanan (S.Pi.)"
+            }
+        },
+        "magister_agroekoteknologi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Agroekoteknologi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Agroekoteknologi Fakultas Pertanian Universitas Malikussaleh dibuka berdasarkan SK Menristekdikti Nomor 275/KPT/I/2017, merupakan program Strata Dua yang berorientasi akademik dan profesional untuk mendukung perkembangan dan pembangunan pertanian, serta menghasilkan peneliti dan praktisi ahli di bidang pertanian dengan memanfaatkan potensi lokal, didukung staf pengajar berkualifikasi S3 lulusan dalam dan luar negeri."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Ir. Rd. Selvy Handayani, M.P."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Ismadi, S.P., M.Si. (Jurusan Budidaya Pertanian)"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Dr. Nasruddin, M.Si. (Jurusan Budidaya Pertanian)"
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Gedung Pascasarjana Universitas Malikussaleh, Jln. Tgk. Chik Ditiro No. 26, Lancang Garam, PO. BOX 141, Lhokseumawe, Aceh Utara, Aceh"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "pmaet@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://pmaet.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Pertanian"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) Magister Pertanian (M.P)"
+            }
+        },"magister_agribisnis": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Magister Agribisnis"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Magister Agribisnis Fakultas Pertanian Universitas Malikussaleh menyelenggarakan pendidikan pascasarjana di bidang ekonomi dan manajemen agribisnis untuk mendukung pengembangan sektor pertanian dan perikanan berbasis potensi lokal."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Dr. Eva Wardah, M.Si."
+            },
+
+             "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Dr. Rita Ariani, S.P., M.P."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Martina, S.P., M.Si."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Gedung Pascasarjana Universitas Malikussaleh, Jln. Tgk. Chik Ditiro No. 26, Lancang Garam, PO. BOX 141, Lhokseumawe, Aceh Utara, Aceh"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "fp@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://pmagb.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(C) Baik"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Pertanian"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata II (S2) dengan Gelar (M.P.)"
+            }
+        },
+        "pendidikan_matematika": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Pendidikan Matematika"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Pendidikan Matematika Fakultas Keguruan dan Ilmu Pendidikan Universitas Malikussaleh berdiri tahun 2014 berdasarkan SK Izin Operasional Nomor 358/E/O/2014, menerima mahasiswa baru angkatan pertama pada tahun akademik 2015/2016, membekali lulusan dengan penguasaan Matematika dan Ilmu Pendidikan agar adaptif terhadap perkembangan zaman sebagai pendidik, peneliti, maupun wirausahawan."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Iryana Muhammad, M.Pd."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Wulandari, M.Pd."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Ratna Unaida, M.Pd."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "pend.matematika@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://pend-matematika.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Keguruan dan Ilmu Pendidikan"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Pendidikan (S.Pd.)"
+            }
+        },
+        "pendidikan_bahasa_indonesia": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Pendidikan Bahasa Indonesia"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Pendidikan Bahasa Indonesia Fakultas Keguruan dan Ilmu Pendidikan Universitas Malikussaleh mendidik calon guru dan tenaga profesional di bidang bahasa dan sastra Indonesia, mempersiapkan lulusan yang kompeten dalam pengajaran bahasa serta pengembangan karya di bidang kebahasaan dan kesastraan."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Safriandi, S.Pd., M.Pd."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Rani Ardesi Pratiwi, M.Pd."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Mutia Fonna, M.Pd."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "pbi@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://pbi.fkip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "Sedang proses reakreditasi"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Keguruan dan Ilmu Pendidikan"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Pendidikan (S.Pd.)"
+            }
+        },
+        "pendidikan_fisika": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Pendidikan Fisika"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Pendidikan Fisika Fakultas Keguruan dan Ilmu Pendidikan Universitas Malikussaleh menyiapkan calon pendidik dan tenaga profesional di bidang fisika, dengan pembelajaran yang mengintegrasikan penguasaan konsep fisika dan ilmu kependidikan agar lulusan siap menjadi pendidik, peneliti, maupun praktisi di bidang sains."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Munzir Absa, M.Si."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Wulandari, M.Pd."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Ratna Unaida, M.Pd."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "pend.fisika@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://pend-fisika.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "Sedang proses reakreditasi"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Keguruan dan Ilmu Pendidikan"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Pendidikan (S.Pd.)"
+            }
+        },
+        "pendidikan_kimia": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Pendidikan Kimia"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Pendidikan Kimia Fakultas Keguruan dan Ilmu Pendidikan Universitas Malikussaleh mendidik calon guru dan tenaga profesional di bidang kimia, membekali lulusan dengan penguasaan konsep kimia dan keterampilan mengajar yang aplikatif untuk dunia pendidikan."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Riska Imanda, M.Pd."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Wulandari, M.Pd."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Ratna Unaida, M.Pd."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "pend.kimia@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://kimia.fkip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Keguruan dan Ilmu Pendidikan"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Pendidikan (S.Pd.)"
+            }
+        },
+        "vokasional_teknik_mesin": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Pendidikan Vokasional Teknik Mesin"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Pendidikan Vokasional Teknik Mesin (PVTM) Fakultas Keguruan dan Ilmu Pendidikan Universitas Malikussaleh berkomitmen mencetak lulusan yang kompeten secara akademik sekaligus unggul dalam keterampilan praktis yang relevan dengan kebutuhan dunia usaha, dunia industri, dan dunia kerja (DUDIKA), didukung kurikulum berbasis kompetensi, fasilitas pembelajaran modern, serta kerja sama strategis dengan berbagai mitra industri."
+            },
+
+            "ketua_prodi": {
+                "label": "Ketua Prodi",
+                "value": "Jumadi, S.T., M.T."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Rani Ardesi Pratiwi, M.Pd."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Mutia Fonna, M.Pd."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "pend.mesin@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://pvtm.fkip.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(A) Unggul"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Keguruan dan Ilmu Pendidikan"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Pendidikan (S.Pd.)"
+            }
+        },
+        "kedokteran": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Pendidikan Dokter"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Pendidikan Dokter Universitas Malikussaleh diselenggarakan berdasarkan Piagam Kerjasama dengan Universitas Andalas sejak 25 November 2006, dengan izin penyelenggaraan dari Direktorat Jenderal Pendidikan Tinggi Nomor 2427/D/T/2008, dan menerima mahasiswa baru angkatan pertama pada 3 November 2008 sebanyak 53 orang, mempersiapkan lulusan yang profesional dalam praktik kedokteran sesuai nilai dan prinsip ketuhanan, moral luhur, etika, disiplin hukum, dan sosial budaya."
+            },
+
+            "ketua_prodi": {
+                "label": "Koordinator Prodi",
+                "value": "dr. Cut Asmaul Husna, M.Si., Sp.P."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "dr. Wizar Putri Mellaratna, M.Ked (DV), Sp.DV"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "dr. Fury Maulina, M.P.H., Ph.D."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "fk@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://fk.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Kedokteran"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Kedokteran (S.Ked.)"
+            }
+        },
+        "profesi_dokter": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Pendidikan Profesi Dokter"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Pendidikan Profesi Dokter Universitas Malikussaleh merupakan kelanjutan dari Program Studi Pendidikan Dokter, menyelenggarakan tahap pendidikan klinik bagi mahasiswa yang telah menyelesaikan tahap sarjana kedokteran, guna menghasilkan lulusan dokter yang kompeten dalam pelayanan kesehatan bekerja sama dengan rumah sakit pendidikan seperti RSUD Cut Meutia Lhokseumawe."
+            },
+
+            "ketua_prodi": {
+                "label": "Koordinator Prodi",
+                "value": "dr. Meutia Maulina, M.Si., Sp.N."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "dr. Wizar Putri Mellaratna, M.Ked (DV), Sp.DV"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "dr. Fury Maulina, M.P.H., Ph.D."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "fk@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://fk.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Kedokteran"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Profesi dengan gelar Dokter (dr.)"
+            }
+        },
+        "psikologi": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Psikologi"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi Psikologi Fakultas Kedokteran Universitas Malikussaleh menyelenggarakan pendidikan untuk menghasilkan lulusan yang kompeten di bidang psikologi, dengan mata kuliah peminatan seperti Psikologi Klinis dan Psikologi Pendidikan, serta membuka jenjang sarjana, profesi, hingga rencana pengembangan pendidikan pascasarjana."
+            },
+
+            "ketua_prodi": {
+                "label": "Koordinator Prodi",
+                "value": "Yulia Nanda Safitri, M.Psi."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "Riza Musni, S.Kp., M.Kes."
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "Rahmi Inayati, SKM., M.Kes."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Utama Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Provinsi Aceh, Indonesia"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "fk@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://psikologi.fk.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "(B) Baik Sekali"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Kedokteran"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Strata I (S1) dengan gelar Sarjana Psikologi (S.Psi.)"
+            }
+        },
+        "keperawatan": {
+            "nama": {
+                "label": "Nama Prodi",
+                "value": "Keperawatan"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Program Studi D-III Keperawatan Fakultas Kedokteran Universitas Malikussaleh menyelenggarakan pendidikan vokasi keperawatan dengan proses belajar meliputi teori di kelas, praktik laboratorium, serta praktik klinik di rumah sakit dan masyarakat, diakhiri dengan Uji Kompetensi Nasional dan sumpah profesi bagi lulusannya."
+            },
+
+            "ketua_prodi": {
+                "label": "Koordinator Prodi",
+                "value": "Dr. Rika Yusnaini, S.Kep., Ns., M.Kes."
+            },
+
+            "ketua_jurusan": {
+                "label": "Ketua Jurusan",
+                "value": "dr. Wizar Putri Mellaratna, M.Ked (DV), Sp.DV"
+            },
+
+            "sekretaris_jurusan": {
+                "label": "Sekretaris Jurusan",
+                "value": "dr. Fury Maulina, M.P.H., Ph.D."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Gedung Dekanat: Cot Tengku Nie Reuleut, Muara Batu, Aceh Utara, Aceh; Gedung Kuliah: Jln. Prof. A. Madjid Ibrahim, Komplek Pelajar Tijue, Sigli, Pidie, Aceh"
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "+62.645.41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "d3keperawatan@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://d3keperawatan.fk.unimal.ac.id/"
+            },
+
+            "akreditasi": {
+                "label": "Akreditasi",
+                "value": "Baik (B)"
+            },
+
+            "fakultas": {
+                "label": "Fakultas",
+                "value": "Fakultas Kedokteran"
+            },
+
+            "jenjang": {
+                "label": "Jenjang",
+                "value": "Diploma III (D3) dengan gelar Ahli Madya Keperawatan (A.Md.Kep.)"
+            }
+        }
+}

@@ -1,0 +1,652 @@
+{
+    "jenis_kontak": {
+        "telepon": [
+            "telepon",
+            "telpon",
+            "nomor telepon",
+            "no telepon",
+            "no telp",
+            "nomor hp",
+            "call center",
+            "kontak"
+        ],
+
+        "website": [
+            "website",
+            "web",
+            "homepage",
+            "situs",
+            "situs resmi",
+            "alamat web",
+            "alamat website",
+            "url",
+            "link",
+            "link website"
+        ],
+
+        "instagram": [
+            "instagram",
+            "ig",
+            "insta",
+            "sosmed",
+            "media sosial",
+            "sosial media"
+        ]
+    },
+
+    "jabatan_pimpinan": {
+
+        "rektor": [
+            "rektor",
+            "pak rektor",
+            "ibu rektor",
+            "rektor unimal"
+        ],
+
+        "wakil_rektor_1": [
+            "wakil rektor bidang akademik",
+            "wwaki rektor akademik",
+            "wakil rektor 1",
+            "wakil rektor i",
+            "wr1",
+            "wr 1",
+            "warek 1"
+        ],
+
+        "wakil_rektor_2": [
+            "wakil rektor bidang umum dan keuangan",
+            "wakil rektor bidang keuangan",
+            "wakil rektor keuangan",
+            "wakil rektor 2",
+            "wakil rektor ii",
+            "wr2",
+            "wr 2",
+            "warek 2"
+        ],
+
+        "wakil_rektor_3": [
+            "wakil rektor kemahasiswaan",
+            "wakil rektor bidang kemahasiswaan",
+            "wakil rektor 3",
+            "wakil rektor iii",
+            "wr3",
+            "wr 3",
+            "warek 3"
+        ]
+    },
+    "atribut_pimpinan":{
+            "nama": [
+                "siapa",
+                "nama"
+            ],
+
+            "nip": [
+                "nip"
+            ],
+
+            "nidn": [
+                "nidn"
+            ],
+
+            "email": [
+                "email",
+                "e-mail"
+            ],
+
+            "tugas":[
+                "tugas",
+                "tanggung jawab",
+                "fungsi",
+                "wewenang",
+                "peran",
+                "jobdesk"
+            ],
+
+            "telepon": [
+                "telepon",
+                "nomor telepon",
+                "hp",
+                "kontak"
+            ],
+
+            "periode": [
+                "periode",
+                "masa jabatan",
+                "menjabat",
+                "periode jabatan"
+            ]
+     },
+        "fakultas": {
+            "fakultas_teknik": [
+                "ft",
+                "fakultas teknik"
+            ],
+            "kedokteran": [
+                "kedokteran",
+                "fk",
+                "fakultas kedokteran"
+            ],
+            "hukum": [
+                "hukum",
+                "fh",
+                "fakultas hukum"
+            ],
+            "ekonomi": [
+                "ekonomi",
+                "feb",
+                "fakultas ekonomi",
+                "fakultas bisnis"
+            ],
+            "pertanian": [
+                "pertanian",
+                "fp",
+                "faperta"
+            ],
+            "fisip": [
+                "fisip",
+                "fakultas ilmu sosial dan ilmu politik",
+                "fakultas ilmu sosial",
+                "fakultas ilmu politik"
+            ],
+            "fkip": [
+                "fakultas ilmu keguruan dan ilmu pendidikan",
+                "fkip",
+                "fakultas ilmu keguruan",
+                "fakultas ilmu pendidikan",
+                "fakultas keguruan",
+                "fakultas pendidikan",
+                "keguruan",
+                "pendidikan"
+            ]
+        },
+        "atribut_fakultas": {
+
+            "nama":[
+                "nama"
+            ],
+
+            "dekan":[
+                "dekan"
+            ],
+
+            "alamat":[
+                "alamat",
+                "lokasi",
+                "dimana"
+            ],
+
+            "email":[
+                "alamat email",
+                "email resmi",
+                "email",
+                "e-mail",
+                "mail"
+            ],
+
+            "telepon":[
+                "telepon",
+                "nomor telepon"
+            ],
+
+            "website":[
+                "website",
+                "web",
+                "link"
+            ],
+
+            "tahun_berdiri":[
+                "tahun berdiri",
+                "berdiri"
+            ],
+
+            "profil":[
+                "profil",
+                "tentang"
+            ],
+
+            "program_studi":[
+                "program studi",
+                "prodi",
+                "jurusan"
+            ]
+        },
+        "prodi": {
+            
+            "teknik_informatika": [
+                "teknik informatika",
+                "tif",
+                "ti",
+                "it",
+                "informatika"
+            ],
+            "teknik_mesin": [
+                "teknik mesin",
+                "tm",
+                "mesin"
+            ],
+            "sistem_informasi": [
+                "sistem informasi",
+                "si",
+                "sisfo"
+            ],
+            "teknik_elektro": [
+                "teknik elektro",
+                "elektro"
+            ],
+            "teknik_industri": [
+                "teknik industri",
+                "industri"
+            ],
+            "teknik_kimia": [
+                "teknik kimia",
+                "kimia",
+                "tekim"
+            ],
+            "teknik_material": [
+                "teknik material",
+                "material"
+            ],
+            "teknik_logistik": [
+                "teknik logistik",
+                "logistik"
+            ],
+            "teknik_sipil": [
+                "teknik sipil",
+                "sipil"
+            ],
+            "teknik_arsitektur": [
+                "teknik arsitektur",
+                "arsitektur"
+            ],
+            "magister_teknologi_informasi": [
+                "magister teknologi informasi",
+                "teknologi informasi",
+                "mti",
+                "s2 teknologi informasi",
+                "s2 teknik informatika",
+                "s2 tif",
+                "s2 ti",
+                "s2 it"
+            ],
+            "magister_teknik_energi_terbarukan": [
+                "magister teknik energi terbarukan",
+                "energi terbarukan",
+                "teknik terbarukan",
+                "teknik energi terbarukan",
+                "MTET",
+                "s2 teknik energi terbarukan",
+                "s2 teknik terbarukan",
+                "s2 energi terbarukan"
+            ],
+            "magister_teknik_sipil": [
+                "magister teknik sipil",
+                "mts",
+                "s2 teknik sipil"
+            ],
+            "manajemen": [
+                "manajemen",
+                "management"
+            ],
+            "akuntansi": [
+                "akuntansi"
+            ],
+            "ekonomi_pembangunan": [
+                "ekonomi pembangunan",
+                "ekp"
+            ],
+            "ekonomi_syariah": [
+                "ekonomi syariah",
+                "ekis"
+            ],
+            "kewirausahaan": [
+                "kewirausahaan",
+                "kwu"
+            ],
+            "kesekretariatan": [
+                "kesekretariatan"
+            ],
+            "magister_ilmu_manajemen": [
+                "magister ilmu manajemen",
+                "ilmu manajemen",
+                "s2 ilmu manajemen",
+                "s2 manajemen"
+            ],
+            "magister_ilmu_akuntansi": [
+                "magister ilmu akuntansi",
+                "ilmu akuntansi",
+                "s2 ilmu akuntansi",
+                "s2 akuntansi"
+            ],
+            "magister_ekonomi_pembangunan": [
+                "magister ekonomi pembangunan",
+                "MEKP",
+                "s2 ekonomi pembangunan",
+                "s2 ekp"
+            ],
+            "sosiologi": [
+                "sosiologi"
+            ],
+            "ilmu_politik": [
+                "ilmu politik",
+                "ilpol",
+                "politik"
+            ],
+            "ilmu_komunikasi": [
+                "ilmu komunikasi",
+                "ilkom"
+            ],
+            "antropologi": [
+                "antropologi",
+                "antro"
+            ],
+            "administrasi_publik": [
+                "adm publik",
+                "administrasi publik"
+            ],
+            "administrasi_bisnis": [
+                "administrasi bisnis",
+                "adm bisnis"
+            ],
+            "magister_administrasi_publik": [
+                "magister administrasi publik",
+                "magister adm publik",
+                "s2 adm publik",
+                "s2 administrasi publik"
+            ],
+            "magister_ilmu_komunikasi": [
+                "magister ilmu komunikasi",
+                "magister ilkom",
+                "s2 ilmu komunikasi",
+                "s2 ilkom"
+            ],
+            "magister_sosiologi": [
+                "magister sosiologi",
+                "s2 sosiologi"
+            ],
+            "ilmu_hukum": [
+                "ilmu hukum",
+                "hukum"
+            ],
+            "magister_ilmu_hukum": [
+                "magister ilmu hukum",
+                "s2 ilmu hukum",
+                "s2 hukum"
+            ],
+            "doktor_ilmu_hukum": [
+                "s3 ilmu hukum",
+                "doktor ilmu hukum",
+                "doktor hukum"
+            ],
+            "agroekoteknologi": [
+                "agroekoteknologi",
+                "agro",
+                "aet"
+            ],
+            "agribisnis": [
+                "agribisnis",
+                "agri",
+                "agb"
+            ],
+            "ilmu_kelautan": [
+                "ilmu kelautan",
+                "kelautan"
+            ],
+            "akuakultur": [
+                "akuakultur"
+            ],
+            "magister_agribisnis": [
+                "magister agribisnis",
+                "magister agb",
+                "magister agri",
+                "s2 agribisnis",
+                "s2 agb",
+                "s2 agri"
+            ],
+            "magister_agroekoteknologi": [
+                "magister agroekoteknologi",
+                "magister agro",
+                "magister aet",
+                "s2 agroekoteknologi",
+                "s2 agro",
+                "s2 aet"
+            ],
+            "pendidikan_matematika": [
+                "pendidikan matematika",
+                "matematika"
+            ],
+            "pendidikan_bahasa_indonesia": [
+                "pendidikan bahasa indonesia",
+                "sastra indonesia"
+            ],
+            "pendidikan_fisika": [
+                "pendidikan fisika",
+                "ilmu fisika"
+            ],
+            "pendidikan_kimia": [
+                "pendidikan kimia",
+                "ilmu kimia"
+            ],
+            "vokasional_teknik_mesin": [
+                "vokasional teknik mesin",
+                "vokasional mesin",
+                "vokasional"
+            ],
+            "pendidikan_dokter": [
+                "pendidikan dokter",
+                "ilmu dokter"
+            ],
+            "psikologi": [
+                "psikologi"
+            ],
+            "pendidikan_profesi_dokter": [
+                "pendidikan profesi dokter",
+                "profesi dokter"
+            ],
+            "keperawatan": [
+                "keperawatan"
+            ]
+        },
+        "atribut_prodi": {
+
+            "nama":[
+                "nama"
+            ],
+
+            "ketua_prodi":[
+                "ketua prodi",
+                "kaprodi",
+                "kepala prodi"
+            ],
+            "ketua_jurusan":[
+                "ketua jurusan",
+                "kepala jurusan",
+                "kajur"
+            ],
+
+            "sekretaris_jurusan":[
+                "sekretaris jurusan",
+                "sekjur"
+            ],
+
+            "alamat":[
+                "alamat",
+                "lokasi",
+                "dimana"
+            ],
+
+            "email":[
+                "alamat email prodi",
+                "email resmi",
+                "email",
+                "e-mail",
+                "mail"
+            ],
+
+            "telepon":[
+                "telepon",
+                "nomor telepon"
+            ],
+
+            "website":[
+                "website",
+                "web",
+                "link"
+            ],
+
+            "akreditasi":[
+                "akreditasi",
+                "akred",
+                "peringkat"
+            ],
+
+            "profil":[
+                "profil",
+                "tentang"
+            ],
+
+            "fakultas":[
+                "fakultas"
+            ],
+
+            "jenjang":[
+                "jenjang",
+                "gelar"
+            ]
+        },  
+  "layanan_tik": {
+        "internet_wifi": [
+            "wifi",
+            "wifi kampus",
+            "internet kampus",
+            "internet unimal",
+            "jaringan kampus",
+            "jaringan wifi",
+            "akses internet"
+        ],
+
+        "email_unimal": [
+            "email unimal",
+            "email kampus",
+            "email mahasiswa",
+            "email dosen",
+            "email institusi",
+            "email universitas malikussaleh"
+        ],
+
+        "portal_akademik": [
+            "portal akademik",
+            "portal unimal",
+            "sistem informasi akademik",
+            "sia",
+            "portal.unimal.ac.id"
+        ],
+
+        "elearning": [
+            "elearning",
+            "e-learning",
+            "kelas online",
+            "kuliah online"
+        ],
+
+        "simail": [
+            "simail",
+            "sistem informasi akun email"
+        ],
+
+        "simpeg": [
+            "simpeg",
+            "sistem informasi kepegawaian"
+        ],
+
+        "sister": [
+            "sister",
+            "beban kerja dosen",
+            "bkd"
+        ],
+
+        "slot": [
+            "slot",
+            "sistem informasi penelitian",
+            "sistem informasi pengabdian"
+        ]
+    },
+    "atribut_layanan_tik": {
+
+        "deskripsi": [
+            "apa itu",
+            "pengertian",
+            "deskripsi",
+            "fungsi",
+            "kegunaan"
+        ],
+
+        "website": [
+            "website",
+            "web",
+            "url",
+            "alamat website",
+            "alamat web",
+            "link website",
+            "situs"
+        ],
+
+        "cara_login": [
+            "login",
+            "masuk",
+            "cara login",
+            "cara masuk",
+            "signin"
+        ],
+
+        "cara_daftar": [
+            "cara daftar",
+            "cara membuat",
+            "cara memperoleh",
+            "registrasi",
+            "pendaftaran",
+            "buat akun"
+        ],
+
+        "syarat": [
+            "syarat",
+            "persyaratan",
+            "dokumen",
+            "berkas"
+        ],
+
+        "pengelola": [
+            "pengelola",
+            "dikelola oleh",
+            "penanggung jawab",
+            "siapa yang mengelola"
+        ],
+
+        "kontak": [
+            "kontak",
+            "helpdesk",
+            "call center",
+            "nomor bantuan",
+            "hubungi"
+        ],
+
+        "kendala": [
+            "lupa password",
+            "reset password",
+            "akun terkunci",
+            "tidak bisa login",
+            "gagal login",
+            "masalah login",
+            "error"
+        ],
+
+        "pengguna": [
+            "siapa yang bisa menggunakan",
+            "untuk siapa",
+            "pengguna",
+            "sasaran layanan"
+        ]
+    }          
+}
+
+
+

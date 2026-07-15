@@ -1,0 +1,114 @@
+{
+    "summary": {
+        "label": "Pimpinan Universitas Malikussaleh",
+        "value": "Pimpinan Universitas Malikussaleh terdiri atas seorang Rektor dan tiga Wakil Rektor.\n\n• Rektor : Prof. Dr. Ir. Herman Fithra, S.T., M.T., IPM., ASEAN Eng.\n• Wakil Rektor I Bidang Akademik : Dr. Ir. Azhari, M.Sc., IPM., ASEAN Eng.\n• Wakil Rektor II Bidang Umum dan Keuangan : Dr. Mukhlis, S.H., M.H.\n• Wakil Rektor III Bidang Kemahasiswaan : Dr. Alfian, S.HI., M.A.\n\nApabila Anda ingin mengetahui informasi lebih rinci, Anda dapat menanyakan nama, NIP, NIDN, email, periode jabatan, atau tugas dari masing-masing pimpinan."
+    },
+    
+    "rektor": {
+        "nama": {
+            "label": "Nama",
+            "value": "Prof. Dr. Ir. Herman Fithra, S.T., M.T., IPM ASEAN. Eng "
+        },
+        "nip": {
+            "label": "NIP",
+            "value": "197211072003121001"
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Tugas Rektor Universitas Malikussaleh meliputi:\n\n1. Memimpin penyelenggaraan pendidikan, penelitian, dan pengabdian kepada masyarakat (Tri Dharma Perguruan Tinggi).\n2. Menetapkan arah kebijakan, visi, dan strategi pengembangan universitas.\n3. Mengelola organisasi, sumber daya manusia, keuangan, serta sarana dan prasarana kampus.\n4. Membina dosen, tenaga kependidikan, dan mahasiswa agar kegiatan akademik berjalan dengan baik.\n5. Menjalin kerja sama dengan pemerintah, dunia usaha, industri, dan institusi lain, baik di dalam maupun luar negeri.\n6. Menjamin mutu penyelenggaraan pendidikan serta meningkatkan akreditasi dan reputasi universitas.\n7. Menyampaikan laporan pertanggungjawaban mengenai kinerja dan pengelolaan universitas kepada pihak yang berwenang sesuai ketentuan yang berlaku."
+        },
+        "periode": {
+            "label": "Periode",
+            "value": "2022–2026"
+        },
+        "email": {
+            "label": "Email",
+            "value": "hfithra@unimal.ac.id"
+        },
+        "nidn": {
+            "label": "NIDN",
+            "value": "0007117204"
+        }
+    },
+
+    "wakil_rektor_1": {
+        "nama": {
+            "label": "Nama",
+            "value": "Dr. Ir. Azhari, M.Sc., IPM., Asean.Eng"
+        },
+        "nip": {
+            "label": "NIP",
+            "value": "196512312002121012"
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Tugas Wakil Rektor I Universitas Malikussaleh meliputi:\n\n1. Membantu Rektor dalam mengoordinasikan penyelenggaraan pendidikan, penelitian, dan pengabdian kepada masyarakat.\n2. Mengoordinasikan pelaksanaan kegiatan akademik di tingkat universitas.\n3. Mengembangkan kurikulum, proses pembelajaran, dan penjaminan mutu akademik.\n4. Mengoordinasikan pembinaan dosen dan pengembangan akademik.\n5. Mengawasi pelaksanaan kalender akademik dan kegiatan kemahasiswaan yang berkaitan dengan akademik.\n6. Membantu Rektor dalam penyusunan kebijakan akademik serta evaluasi pelaksanaannya."
+        },
+        "periode": {
+            "label": "Periode",
+            "value": "2022–2026"
+        },
+        "email": {
+            "label": "Email",
+            "value": "azhari@unimal.ac.id"
+        },
+        "nidn": {
+            "label": "NIDN",
+            "value": "0001016529"
+        }
+    },
+
+    "wakil_rektor_2": {
+        "nama": {
+            "label": "Nama",
+            "value": "Dr. Mukhlis, S.H., M.H"
+        },
+        "nip": {
+            "label": "NIP",
+            "value": "197812022003121003"
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Tugas Wakil Rektor II Universitas Malikussaleh meliputi:\n\n1. Membantu Rektor dalam pengelolaan administrasi umum universitas.\n2. Mengelola perencanaan, keuangan, dan penganggaran universitas.\n3. Mengoordinasikan pengelolaan sumber daya manusia, termasuk dosen dan tenaga kependidikan.\n4. Mengelola sarana dan prasarana universitas agar mendukung kegiatan akademik dan nonakademik.\n5. Mengawasi pengelolaan aset dan barang milik negara di lingkungan universitas.\n6. Membantu Rektor dalam meningkatkan efektivitas tata kelola administrasi universitas."
+        },
+        "periode": {
+            "label": "Periode",
+            "value": "2022–2026"
+        },
+        "email": {
+            "label": "Email",
+            "value": "mukhlis.dr@unimal.ac.id"
+        },
+        "nidn": {
+            "label": "NIDN",
+            "value": "0002127801"
+        }
+    },
+
+    "wakil_rektor_3": {
+        "nama": {
+            "label": "Nama",
+            "value": "Dr. Alfian, S.HI.,M.A"
+        },
+        "nip": {
+            "label": "NIP",
+            "value": "197701242005011001"
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Tugas Wakil Rektor III Universitas Malikussaleh meliputi:\n\n1. Membantu Rektor dalam pengelolaan bidang kemahasiswaan dan alumni.\n2. Mengoordinasikan pembinaan organisasi kemahasiswaan serta kegiatan minat dan bakat mahasiswa.\n3. Mengembangkan program kesejahteraan mahasiswa, termasuk layanan beasiswa dan pembinaan prestasi.\n4. Mengembangkan kegiatan kewirausahaan, kepemimpinan, dan karakter mahasiswa.\n5. Mengelola hubungan universitas dengan alumni serta mendukung pengembangan jejaring alumni.\n6. Mengoordinasikan kegiatan pengembangan prestasi mahasiswa di tingkat nasional maupun internasional."
+        },
+        "periode": {
+            "label": "Periode",
+            "value": "2022–2026"
+        },
+        "email": {
+            "label": "Email",
+            "value": "alfian@unimal.ac.id"
+        },
+        "nidn": {
+            "label": "NIDN",
+            "value": "0024017703"
+        }
+    }
+}

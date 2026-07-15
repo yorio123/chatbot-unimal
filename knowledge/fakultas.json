@@ -1,0 +1,360 @@
+{
+    "fakultas_teknik": {
+
+        "nama": {
+            "label": "Nama Fakultas",
+            "value": "Fakultas Teknik"
+        },
+
+        "profil": {
+            "label": "Profil",
+            "value": "Fakultas Teknik Universitas Malikussaleh adalah fakultas yang menyelenggarakan pendidikan tinggi di bidang rekayasa dan teknologi dengan fokus pada pengembangan ilmu pengetahuan, penelitian, inovasi, serta pengabdian kepada masyarakat untuk menghasilkan lulusan yang kompeten dan berdaya saing."
+        },
+
+        "dekan": {
+            "label": "Dekan",
+            "value": "Dr. Muhammad, S.T., M.Sc"
+        },
+
+        "alamat": {
+            "label": "Alamat",
+            "value": "Jl. Batam, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia (Kode Pos 24352)."
+        },
+
+        "telepon": {
+            "label": "Telepon",
+            "value": "(0645) 41373"
+        },
+
+        "email": {
+            "label": "Email",
+            "value": "ft@unimal.ac.id"
+        },
+
+        "website": {
+            "label": "Website",
+            "value": "https://teknik.unimal.ac.id/"
+        },
+
+        "tahun_berdiri": {
+            "label": "Tahun Berdiri",
+            "value": "11 September 1989 "
+        },
+
+        "program_studi": [
+            "Teknik Informatika",
+            "Teknik Sipil",
+            "Teknik Industri",
+            "Teknik Mesin",
+            "Teknik Kimia",
+            "Teknik Elektro",
+            "Teknik Arsitektur",
+            "Sistem Informasi",
+            "Teknik Material",
+            "Teknik Logistik"
+        ]
+    },
+    
+    "ekonomi": {
+
+            "nama": {
+                "label": "Nama Fakultas",
+                "value": "Fakultas Ekonomi dan Bisnis"
+            },
+
+            "profil": {
+                "label": "Profil",
+                "value": "Fakultas Ekonomi dan Bisnis Universitas Malikussaleh adalah fakultas yang menyelenggarakan pendidikan tinggi di bidang ekonomi, manajemen, akuntansi, dan bisnis dengan berorientasi pada pengembangan ilmu pengetahuan, penelitian, kewirausahaan, serta pengabdian kepada masyarakat untuk menghasilkan lulusan yang profesional, berintegritas, dan berdaya saing."
+            },
+
+            "dekan": {
+                "label": "Dekan",
+                "value": "Dr. Faisal, S.E., M.Si."
+            },
+
+            "alamat": {
+                "label": "Alamat",
+                "value": "Kampus Bukit Indah, Jl. Jawa, Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia."
+            },
+
+            "telepon": {
+                "label": "Telepon",
+                "value": "(0645) 41373"
+            },
+
+            "email": {
+                "label": "Email",
+                "value": "feb@unimal.ac.id"
+            },
+
+            "website": {
+                "label": "Website",
+                "value": "https://feb.unimal.ac.id/"
+            },
+
+            "tahun_berdiri": {
+                "label": "Tahun Berdiri",
+                "value": "11 September 1989"
+            },
+
+            "program_studi": [
+                "Ekonomi Pembangunan",
+                "Manajemen",
+                "Akuntansi",
+                "Kewirausahaan",
+                "Bisnis Digital"
+            ]
+        },
+        "fisip": {
+
+                "nama": {
+                    "label": "Nama Fakultas",
+                    "value": "Fakultas Ilmu Sosial dan Ilmu Politik"
+                },
+
+                "profil": {
+                    "label": "Profil",
+                    "value": "Fakultas Ilmu Sosial dan Ilmu Politik Universitas Malikussaleh adalah fakultas yang menyelenggarakan pendidikan tinggi di bidang ilmu sosial, administrasi, politik, komunikasi, sosiologi, dan antropologi dengan fokus pada pengembangan pendidikan, penelitian, dan pengabdian kepada masyarakat berbasis kearifan lokal dan kebudayaan multikultural."
+                },
+
+                "dekan": {
+                    "label": "Dekan",
+                    "value": "Teuku Zulkarnaen, S.E., M.M., Ph.D"
+                },
+
+                "alamat": {
+                    "label": "Alamat",
+                    "value": "Gedung Pusat Administrasi Fakultas Ilmu Sosial dan Ilmu Politik, Kampus Bukit Indah, Desa Blang Pulo, Kecamatan Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia."
+                },
+
+                "telepon": {
+                    "label": "Telepon",
+                    "value": "+62 645 41373"
+                },
+
+                "email": {
+                    "label": "Email",
+                    "value": "fisip@unimal.ac.id"
+                },
+
+                "website": {
+                    "label": "Website",
+                    "value": "https://fisip.unimal.ac.id/"
+                },
+
+                "tahun_berdiri": {
+                    "label": "Tahun Berdiri",
+                    "value": "11 September 1989"
+                },
+
+                "program_studi": [
+                    "Administrasi Publik",
+                    "Administrasi Bisnis",
+                    "Ilmu Politik",
+                    "Ilmu Komunikasi",
+                    "Antropologi",
+                    "Sosiologi",
+                    "Magister Administrasi Publik",
+                    "Magister Sosiologi"
+                ]
+            },
+            "hukum": {
+
+                "nama": {
+                    "label": "Nama Fakultas",
+                    "value": "Fakultas Hukum"
+                },
+
+                "profil": {
+                    "label": "Profil",
+                    "value": "Fakultas Hukum Universitas Malikussaleh adalah fakultas yang menyelenggarakan pendidikan tinggi di bidang hukum dengan fokus pada pengembangan ilmu hukum, penelitian, pengabdian kepada masyarakat, serta menghasilkan lulusan yang profesional, berintegritas, dan mampu menjawab tantangan perkembangan hukum di tingkat nasional maupun internasional."
+                },
+
+                "dekan": {
+                    "label": "Dekan",
+                    "value": "Dr. Faisal, S.Ag., S.H., M.Hum."
+                },
+
+                "alamat": {
+                    "label": "Alamat",
+                    "value": "Komplek Kampus Bukit Indah, Jalan Jawa, Padang Sakti, Kecamatan Muara Satu, Kota Lhokseumawe, Provinsi Aceh, Indonesia."
+                },
+
+                "telepon": {
+                    "label": "Telepon",
+                    "value": "+62 822-7741-3463"
+                },
+
+                "email": {
+                    "label": "Email",
+                    "value": "fh@unimal.ac.id"
+                },
+
+                "website": {
+                    "label": "Website",
+                    "value": "https://law.unimal.ac.id/"
+                },
+
+                "tahun_berdiri": {
+                    "label": "Tahun Berdiri",
+                    "value": "1969"
+                },
+
+                "program_studi": [
+                    "Ilmu Hukum (Sarjana/S1)",
+                    "Magister Hukum (S2)",
+                    "Doktor Hukum (S3)"
+                ]
+            },
+            "kedokteran": {
+
+                "nama": {
+                    "label": "Nama Fakultas",
+                    "value": "Fakultas Kedokteran"
+                },
+
+                "profil": {
+                    "label": "Profil",
+                    "value": "Fakultas Kedokteran Universitas Malikussaleh adalah fakultas yang menyelenggarakan pendidikan tinggi di bidang kedokteran, kesehatan, dan psikologi dengan berfokus pada pendidikan, penelitian, dan pengabdian kepada masyarakat untuk menghasilkan tenaga kesehatan yang profesional, beretika, dan berdaya saing."
+                },
+
+                "dekan": {
+                    "label": "Dekan",
+                    "value": "dr. Muhammad Sayuti, Sp.B., Subsp. BD(K)"
+                },
+
+                "alamat": {
+                    "label": "Alamat",
+                    "value": "Kampus Cot Tengku Nie Reuleut, Kecamatan Muara Batu, Kabupaten Aceh Utara, Provinsi Aceh, Indonesia."
+                },
+
+                "telepon": {
+                    "label": "Telepon",
+                    "value": "+62 645 41373"
+                },
+
+                "email": {
+                    "label": "Email",
+                    "value": "fk@unimal.ac.id"
+                },
+
+                "website": {
+                    "label": "Website",
+                    "value": "https://fk.unimal.ac.id/"
+                },
+
+                "tahun_berdiri": {
+                    "label": "Tahun Berdiri",
+                    "value": "3 November 2008"
+                },
+
+                "program_studi": [
+                    "S1 Kedokteran",
+                    "Program Profesi Dokter",
+                    "S1 Psikologi",
+                    "DIII Keperawatan"
+                ]
+            },
+            "pertanian": {
+
+                "nama": {
+                    "label": "Nama Fakultas",
+                    "value": "Fakultas Pertanian"
+                },
+
+                "profil": {
+                    "label": "Profil",
+                    "value": "Fakultas Pertanian Universitas Malikussaleh adalah fakultas yang menyelenggarakan pendidikan tinggi di bidang pertanian, perikanan, dan kelautan dengan fokus pada pengembangan ilmu pengetahuan, penelitian, inovasi, serta pengabdian kepada masyarakat untuk menghasilkan lulusan yang profesional, berdaya saing, dan berkontribusi terhadap pembangunan sektor pertanian dan perikanan."
+                },
+
+                "dekan": {
+                    "label": "Dekan",
+                    "value": "Dr. Baidhawi, S.P., M.P."
+                },
+
+                "alamat": {
+                    "label": "Alamat",
+                    "value": "Kampus Utama Cot Teungku Nie Reuleut, Kecamatan Muara Batu, Kabupaten Aceh Utara, Provinsi Aceh, Indonesia."
+                },
+
+                "telepon": {
+                    "label": "Telepon",
+                    "value": "+62 645 41373"
+                },
+
+                "email": {
+                    "label": "Email",
+                    "value": "fp@unimal.ac.id"
+                },
+
+                "website": {
+                    "label": "Website",
+                    "value": "https://fp.unimal.ac.id/"
+                },
+
+                "tahun_berdiri": {
+                    "label": "Tahun Berdiri",
+                    "value": "29 Desember 1989"
+                },
+
+                "program_studi": [
+                    "Agroekoteknologi",
+                    "Agribisnis",
+                    "Akuakultur",
+                    "Ilmu Kelautan",
+                    "Magister Agroekoteknologi",
+                    "Magister Agribisnis"
+                ]
+            },
+            "fkip": {
+
+                    "nama": {
+                        "label": "Nama Fakultas",
+                        "value": "Fakultas Keguruan dan Ilmu Pendidikan"
+                    },
+
+                    "profil": {
+                        "label": "Profil",
+                        "value": "Fakultas Keguruan dan Ilmu Pendidikan Universitas Malikussaleh adalah fakultas yang menyelenggarakan pendidikan tinggi di bidang kependidikan untuk menghasilkan tenaga pendidik yang profesional, kompeten, inovatif, dan berdaya saing melalui penyelenggaraan pendidikan, penelitian, dan pengabdian kepada masyarakat."
+                    },
+
+                    "dekan": {
+                        "label": "Dekan",
+                        "value": "Dr. Ir. Azhari, M.Sc., IPM., ASEAN Eng."
+                    },
+
+                    "alamat": {
+                        "label": "Alamat",
+                        "value": "Kampus Utama Cot Tengku Nie Reuleut, Kecamatan Muara Batu, Kabupaten Aceh Utara, Provinsi Aceh, Indonesia."
+                    },
+
+                    "telepon": {
+                        "label": "Telepon",
+                        "value": "+62 645 41373"
+                    },
+
+                    "email": {
+                        "label": "Email",
+                        "value": "fkip@unimal.ac.id"
+                    },
+
+                    "website": {
+                        "label": "Website",
+                        "value": "https://fkip.unimal.ac.id/"
+                    },
+
+                    "tahun_berdiri": {
+                        "label": "Tahun Berdiri",
+                        "value": "19 Mei 2014"
+                    },
+
+                    "program_studi": [
+                        "Pendidikan Matematika",
+                        "Pendidikan Fisika",
+                        "Pendidikan Kimia",
+                        "Pendidikan Bahasa Indonesia",
+                        "Pendidikan Vokasional Teknik Mesin",
+                        "Pendidikan Profesi Guru (PPG)"
+                    ]
+                }
+}

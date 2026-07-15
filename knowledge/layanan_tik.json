@@ -1,0 +1,53 @@
+{
+    "email_unimal": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Layanan Email Kampus (SIMAIL)"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Akun email resmi berdomain @unimal.ac.id yang disediakan UPT TIK untuk mempermudah dosen, mahasiswa, dan tenaga kependidikan berkomunikasi secara resmi dengan pihak internal maupun eksternal kampus."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "UPT Teknologi Informasi dan Komunikasi (TIK) / Puskom"
+        },
+
+        "website": {
+            "label": "Website / Link Akses",
+            "value": "https://simail.unimal.ac.id/"
+        },
+
+        "cara_login": {
+            "label": "Cara Akses / Login",
+            "value": "Login menggunakan akun email @unimal.ac.id melalui https://gmail.com atau portal SIMAIL."
+        },
+
+        "cara_daftar": {
+            "label": "Cara Pendaftaran",
+            "value": "Mengajukan permohonan melalui aplikasi ULT (Unit Layanan Terpadu), mengisi formulir pendaftaran, dan melampirkan identitas (KTM bagi mahasiswa)."
+        },
+
+        "syarat": {
+            "label": "Syarat / Dokumen",
+            "value": "Fotokopi/scan identitas (KTM bagi mahasiswa), mengisi biodata pada sistem ULT, dan menyetujui ketentuan penggunaan."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika lupa password atau tidak bisa login, ajukan permohonan reset melalui ULT atau hubungi UPT TIK langsung."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "UPT TIK Universitas Malikussaleh, Telp: +62.645.41373"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Dosen, tenaga kependidikan, dan mahasiswa aktif"
+        }
+    }
+}

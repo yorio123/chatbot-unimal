@@ -1,0 +1,20 @@
+{
+    "jenis_kontak": {
+
+        "telepon": {
+            "label": "Nomor Telepon",
+            "value": "(0645) 41373"
+        },
+
+        "website": {
+            "label": "Website Resmi",
+            "value": "https://unimal.ac.id"
+        },
+
+        "instagram": {
+            "label": "Instagram Resmi",
+            "value": "@unimal.official"
+        }
+
+    }
+}
