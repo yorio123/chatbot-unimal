@@ -1,0 +1,173 @@
+{
+    "pembayaran_ukt": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Pembayaran Uang Kuliah Tunggal (UKT)"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Layanan pembayaran biaya kuliah (UKT) yang wajib dilakukan mahasiswa setiap semester sebagai syarat registrasi ulang dan pengisian KRS."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Biro Keuangan Universitas Malikussaleh"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa on going melakukan pembayaran UKT melalui BSI Mobile atau ATM BSI di mana saja, sesuai jadwal pembayaran yang ditentukan pada kalender akademik setiap semester."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Terdaftar sebagai mahasiswa aktif dan melakukan pembayaran sesuai jadwal dan nominal UKT yang ditetapkan sesuai golongan/prodi masing-masing."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika menemukan kendala dalam pembayaran UKT, mahasiswa dapat menghubungi nomor WhatsApp yang disediakan pihak kampus pada pengumuman pembayaran UKT setiap semester."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Biro Keuangan Universitas Malikussaleh"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa aktif Universitas Malikussaleh"
+    },
+    "besaran": {
+        "label": "Besaran UKT",
+        "value": "Besaran UKT berbeda-beda tergantung program studi, jenjang (Diploma/Sarjana/Pascasarjana), rumpun ilmu, dan golongan UKT yang ditetapkan berdasarkan kemampuan ekonomi mahasiswa. Untuk info besaran UKT terbaru, silakan hubungi Biro Keuangan atau Program Studi masing-masing."
+    }
+},
+
+"cetak_slip_ukt": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Cetak Slip Pembayaran UKT"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Layanan pencetakan bukti/slip pembayaran UKT yang sudah dilakukan mahasiswa pada semester tertentu, untuk keperluan administrasi atau arsip pribadi."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Staf PNBP, Unit Layanan Terpadu (ULT) Universitas Malikussaleh"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa mengajukan permohonan cetak slip pembayaran UKT ke Staf ULT dengan mengisi form berupa Nama, NIM, Prodi/Fakultas, semester yang akan dicetak, dan tanggal permintaan. Staf PNBP kemudian mencetak bukti slip pembayaran UKT sesuai permintaan."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Mengisi form permohonan (Nama, NIM, Prodi/Fakultas, semester yang diminta, tanggal permintaan) dan telah melakukan pembayaran UKT pada semester yang dimaksud."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika slip yang dicetak tidak sesuai atau data pembayaran tidak ditemukan, mahasiswa dapat menghubungi Staf ULT atau Biro Keuangan untuk verifikasi lebih lanjut."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Unit Layanan Terpadu (ULT) Universitas Malikussaleh"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa aktif Universitas Malikussaleh"
+    }
+},
+
+"cetak_slip_gaji": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Cetak Slip Gaji"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Layanan pencetakan slip gaji bagi dosen dan tenaga kependidikan (tendik) untuk keperluan administrasi pribadi."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Staf PNBP, Unit Layanan Terpadu (ULT) Universitas Malikussaleh"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Pemohon mengajukan permohonan cetak slip gaji ke Staf ULT dengan mengisi form berupa Nama, NIP/NIPK, Fakultas, dan keperluan pengambilan slip gaji."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Merupakan dosen atau tenaga kependidikan aktif Universitas Malikussaleh dan mengisi form permohonan (Nama, NIP/NIPK, Fakultas, keperluan)."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika slip gaji yang dicetak tidak sesuai atau data tidak ditemukan, pemohon dapat menghubungi Staf ULT atau Biro Keuangan untuk verifikasi lebih lanjut."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Unit Layanan Terpadu (ULT) Universitas Malikussaleh"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Dosen dan tenaga kependidikan (tendik) Universitas Malikussaleh"
+    }
+},
+
+"penundaan_ukt": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Penundaan/Angsuran Pembayaran UKT"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Layanan pengajuan penundaan atau pembayaran UKT secara angsuran bagi mahasiswa yang mengalami kendala finansial pada semester berjalan."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Biro Keuangan bekerja sama dengan Fakultas/Program Studi"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa mengajukan permohonan penundaan/angsuran UKT ke Biro Keuangan atau Fakultas dengan melampirkan alasan dan bukti pendukung, untuk kemudian diverifikasi dan disetujui pihak berwenang."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Terdaftar sebagai mahasiswa aktif dan mengajukan permohonan sebelum batas akhir jadwal pembayaran UKT semester berjalan."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika pengajuan belum disetujui atau ada kendala proses, mahasiswa perlu menghubungi Biro Keuangan atau Fakultas terkait."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Biro Keuangan Universitas Malikussaleh"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa aktif Universitas Malikussaleh"
+    }
+}
+}

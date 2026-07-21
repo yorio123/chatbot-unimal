@@ -1,0 +1,84 @@
+{"pinjam_buku": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Layanan Sirkulasi (Peminjaman Buku)"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Layanan peminjaman dan pengembalian koleksi bahan pustaka (buku) di Perpustakaan Universitas Malikussaleh, baik untuk dibaca di tempat maupun dibawa pulang."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "UPT Perpustakaan Universitas Malikussaleh"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa/dosen/tendik yang telah terdaftar sebagai anggota perpustakaan dapat mencari koleksi melalui katalog, kemudian melakukan peminjaman di bagian sirkulasi dengan menunjukkan kartu anggota/KTM."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Terdaftar sebagai anggota perpustakaan (mahasiswa, dosen, atau tenaga kependidikan aktif Unimal) dan tidak memiliki tanggungan buku/denda yang belum diselesaikan."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika ada kendala peminjaman (buku tidak ditemukan, kartu anggota bermasalah, atau denda keterlambatan), pemustaka dapat menghubungi Staf Perpustakaan di bagian sirkulasi."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "UPT Perpustakaan Universitas Malikussaleh, Email: lib@unimal.ac.id, Telp: +62.645.41373"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa, dosen, dan tenaga kependidikan aktif Universitas Malikussaleh"
+    }
+},
+
+"e_book": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Layanan E-Book"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Layanan akses koleksi buku elektronik (e-book) yang disediakan Perpustakaan Universitas Malikussaleh untuk mendukung kebutuhan literasi dan referensi sivitas akademika secara digital."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "UPT Perpustakaan Universitas Malikussaleh"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Sivitas akademika dapat mengakses koleksi e-book melalui menu E-Book pada website library.unimal.ac.id menggunakan akun keanggotaan perpustakaan yang telah terdaftar."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Terdaftar sebagai anggota perpustakaan (mahasiswa, dosen, atau tenaga kependidikan aktif Unimal)."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika e-book tidak bisa diakses atau diunduh, pemustaka dapat menghubungi Staf Perpustakaan untuk verifikasi akun atau ketersediaan koleksi."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "UPT Perpustakaan Universitas Malikussaleh, Email: lib@unimal.ac.id, Telp: +62.645.41373"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa, dosen, dan tenaga kependidikan aktif Universitas Malikussaleh"
+    }
+}
+}

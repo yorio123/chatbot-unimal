@@ -1,0 +1,101 @@
+question,true_intent
+"Sebutkan program studi Universitas Malikussaleh""",kampus_program_studi
+Daftar lengkap program studi UNIMAL,kampus_program_studi
+Unimal memiliki program studi apa saja?,kampus_program_studi
+Informasi program studi Universitas Malikussaleh,kampus_program_studi
+Saya ingin mengetahui seluruh program studi di Unimal.,kampus_program_studi
+Tolong tampilkan program studi yang ada di Universitas Malikussaleh.,kampus_program_studi
+Bisakah Anda menampilkan daftar jurusan di Unimal?,kampus_program_studi
+Apa saja program studi yang tersedia di Unimal?,kampus_program_studi
+Program studi yang tersedia di kampus Unimal apa saja?,kampus_program_studi
+Tolong tampilkan seluruh jurusan yang ada di Universitas Malikussaleh.,kampus_program_studi
+Fakultas apa saja yang ada di Universitas Malikussaleh?,kampus_fakultas
+Apa saja fakultas yang dimiliki oleh Unimal?,kampus_fakultas
+Universitas Malikussaleh memiliki berapa fakultas?,kampus_fakultas
+Tolong tampilkan daftar fakultas di Unimal.,kampus_fakultas
+Fakultas yang tersedia di Universitas Malikussaleh apa saja?,kampus_fakultas
+Saya ingin mengetahui seluruh fakultas yang ada di Unimal.,kampus_fakultas
+Sebutkan nama-nama fakultas di Universitas Malikussaleh.,kampus_fakultas
+Bisakah Anda memberikan daftar fakultas yang ada di Unimal?,kampus_fakultas
+Ada fakultas apa saja di kampus Universitas Malikussaleh?,kampus_fakultas
+Unimal memiliki fakultas apa saja saat ini?,kampus_fakultas
+Siapa Rektor Universitas Malikussaleh saat ini?,pimpinan_info
+Siapa nama rektor Unimal sekarang?,pimpinan_info
+Siapa Wakil Rektor I Universitas Malikussaleh?,pimpinan_info
+Siapa yang menjabat sebagai WR 1 di Unimal?,pimpinan_info
+Siapa Wakil Rektor II Universitas Malikussaleh?,pimpinan_info
+Siapa nama WR 2 di Universitas Malikussaleh?,pimpinan_info
+Siapa Wakil Rektor III Universitas Malikussaleh?,pimpinan_info
+Siapa yang menjabat sebagai WR 3 di Unimal?,pimpinan_info
+Siapa saja pimpinan Universitas Malikussaleh saat ini?,pimpinan_info
+Tolong tampilkan informasi pimpinan Universitas Malikussaleh.,pimpinan_info
+Apa saja program studi di Fakultas Teknik?,fakultas_info
+Saya ingin mengetahui informasi tentang Fakultas Hukum Unimal.,fakultas_info
+Apa saja informasi mengenai Fakultas Ekonomi dan Bisnis?,fakultas_info
+Tolong jelaskan profil Fakultas Kedokteran Universitas Malikussaleh.,fakultas_info
+Bagaimana informasi mengenai Fakultas Pertanian di Unimal?,fakultas_info
+Ceritakan tentang Fakultas Ilmu Sosial dan Ilmu Politik Unimal.,fakultas_info
+Apa informasi yang tersedia mengenai Fakultas Keguruan dan Ilmu Pendidikan?,fakultas_info
+Saya ingin mengetahui profil Fakultas Teknik Unimal.,fakultas_info
+Dapatkah Anda memberikan informasi mengenai Fakultas Hukum?,fakultas_info
+Tolong tampilkan informasi Fakultas Ekonomi dan Bisnis Universitas Malikussaleh.,fakultas_info
+Berikan informasi mengenai Program Studi Informatika Universitas Malikussaleh.,prodi_info
+Saya ingin mengetahui profil Program Studi Sistem Informasi.,prodi_info
+Apa saja informasi mengenai Program Studi Teknik Sipil di Unimal?,prodi_info
+Tolong jelaskan tentang Program Studi Teknik Mesin Universitas Malikussaleh.,prodi_info
+Bagaimana informasi mengenai Program Studi Manajemen?,prodi_info
+Saya ingin mengetahui informasi tentang Program Studi Akuntansi Unimal.,prodi_info
+Dapatkah Anda menjelaskan profil Program Studi Ilmu Hukum?,prodi_info
+Apa informasi yang tersedia mengenai Program Studi Kedokteran?,prodi_info
+Tolong tampilkan informasi mengenai Program Studi Agribisnis Universitas Malikussaleh.,prodi_info
+Ceritakan tentang Program Studi Teknik Kimia di Unimal.,prodi_info
+Bagaimana cara mengakses email unimal Universitas Malikussaleh?,layanan_tik
+Saya tidak bisa login ke portal akademik.  harus bagaimana?,layanan_tik
+Bagaimana cara melakukan reset password akun mahasiswa?,layanan_tik
+Siapa yang harus dihubungi jika mengalami masalah pada akun email?,layanan_tik
+Bagaimana cara mendapatkan akun email mahasiswa Unimal?,layanan_tik
+Dimana saya dapat menghubungi layanan TIK Universitas Malikussaleh?,layanan_tik
+Bagaimana prosedur pengajuan bantuan teknis untuk sistem email kampus?,layanan_tik
+Saya lupa password email unimal.  bagaimana cara mengatasinya?,layanan_tik
+Bagaimana cara menggunakan email kampus?,layanan_tik
+Apakah tersedia layanan bantuan untuk masalah email mahasiswa?,layanan_tik
+Dimana lokasi Universitas Malikussaleh?,kampus_lokasi
+Universitas Malikussaleh berada di kota mana?,kampus_lokasi
+Alamat Universitas Malikussaleh dimana?,kampus_lokasi
+Dimana letak kampus utama Universitas Malikussaleh?,kampus_lokasi
+Universitas Malikussaleh berada di daerah mana?,kampus_lokasi
+Dimana lokasi Kampus Bukit Indah Universitas Malikussaleh?,kampus_lokasi
+Dimana lokasi Kampus Reuleut Universitas Malikussaleh?,kampus_lokasi
+Universitas Malikussaleh terletak di provinsi apa?,kampus_lokasi
+Kampus Universitas Malikussaleh berada di Aceh bagian mana?,kampus_lokasi
+Saya ingin mengetahui lokasi Universitas Malikussaleh.,kampus_lokasi
+Bagaimana sejarah berdirinya Universitas Malikussaleh?,kampus_sejarah
+Kapan Universitas Malikussaleh didirikan?,kampus_sejarah
+Ceritakan sejarah Universitas Malikussaleh.,kampus_sejarah
+Bagaimana awal mula berdirinya Unimal?,kampus_sejarah
+Siapa pendiri Universitas Malikussaleh?,kampus_sejarah
+Mengapa universitas ini diberi nama Malikussaleh?,kampus_sejarah
+Saya ingin tau sejarah unimal,kampus_sejarah
+Bagaimana perkembangan Universitas Malikussaleh sejak didirikan?,kampus_sejarah
+Kapan Universitas Malikussaleh berubah menjadi perguruan tinggi negeri?,kampus_sejarah
+Saya ingin mengetahui sejarah Universitas Malikussaleh.,kampus_sejarah
+Bagaimana jam kerja Universitas Malikussaleh?,kampus_jam_kerja
+Jam operasional Universitas Malikussaleh mulai pukul berapa?,kampus_jam_kerja
+Sampai jam berapa pelayanan di Universitas Malikussaleh?,kampus_jam_kerja
+Kapan jam pelayanan administrasi di Unimal?,kampus_jam_kerja
+Universitas Malikussaleh buka dari hari apa sampai hari apa?,kampus_jam_kerja
+Apakah Universitas Malikussaleh buka pada hari Sabtu?,kampus_jam_kerja
+Saya ingin mengetahui jam operasional Unimal.,kampus_jam_kerja
+Berapa jam kerja pegawai di Universitas Malikussaleh?,kampus_jam_kerja
+Kapan layanan kampus mulai beroperasi setiap hari?,kampus_jam_kerja
+Tolong tampilkan informasi jam kerja Universitas Malikussaleh.,kampus_jam_kerja
+Apa visi Universitas Malikussaleh?,kampus_visi_misi
+Apa misi Universitas Malikussaleh?,kampus_visi_misi
+Apa visi dan misi Universitas Malikussaleh?,kampus_visi_misi
+Saya ingin mengetahui visi Unimal.,kampus_visi_misi
+Tolong tampilkan misi Universitas Malikussaleh.,kampus_visi_misi
+Apa tujuan Universitas Malikussaleh didirikan?,kampus_visi_misi
+Apa cita-cita atau arah pengembangan Universitas Malikussaleh?,kampus_visi_misi
+Bagaimana visi yang dimiliki oleh Universitas Malikussaleh?,kampus_visi_misi
+Dapatkah Anda menjelaskan visi dan misi Unimal?,kampus_visi_misi
+Saya ingin mengetahui tujuan dan misi Universitas Malikussaleh.,kampus_visi_misi

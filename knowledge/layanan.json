@@ -1,0 +1,176 @@
+{
+    "layanan_tik": {
+        "nama": {
+            "label": "Nama Unit",
+            "value": "UPT Teknologi Informasi dan Komunikasi (TIK) / Puskom"
+        },
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Unit yang mengelola seluruh layanan teknologi informasi dan komunikasi di Unimal, mencakup email institusi, web hosting, portal akademik, e-learning, dan internet/jaringan (wifi) kampus."
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Mengelola website resmi unimal.ac.id, mail server dan email institusi, sistem informasi manajemen (SIMAIL, SIMPEG, dll), serta jaringan internet dan intranet kampus."
+        },
+        "ketua_unit": {
+            "label": "Ketua/Kepala Unit",
+            "value": "Perlu verifikasi terbaru ke laman puskom.unimal.ac.id/profil"
+        },
+        "alamat": {
+            "label": "Alamat",
+            "value": "Kampus Utama Reuleut, Cot Tengku Nie, Muara Batu, Aceh Utara, Provinsi Aceh"
+        },
+        "layanan": {
+            "label": "Daftar Layanan",
+            "value": "Email Unimal (SIMAIL), Web Hosting, Portal Akademik, E-Learning, Internet dan Jaringan (WiFi)"
+        },
+        "link_website": {
+            "label": "Link Website",
+            "value": "https://puskom.unimal.ac.id/"
+        },
+        "kontak": {
+            "label": "Kontak",
+            "value": "Telp: +62.645.41373"
+        }
+    },
+
+    "biro_akademik": {
+        "nama": {
+            "label": "Nama Unit",
+            "value": "Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI)"
+        },
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Unit yang menangani administrasi akademik mahasiswa, mencakup pengisian KRS, KHS, transkrip nilai, legalisir ijazah, surat keterangan aktif kuliah, cuti kuliah, dan surat pengantar."
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Mengelola administrasi akademik dan kemahasiswaan, termasuk data mahasiswa, jadwal perkuliahan, kalender akademik, hingga urusan perencanaan dan kerjasama kampus."
+        },
+        "ketua_unit": {
+            "label": "Ketua/Kepala Unit",
+            "value": "Perlu verifikasi terbaru ke laman resmi Unimal (struktur organisasi)"
+        },
+        "alamat": {
+            "label": "Alamat",
+            "value": "Kampus Utama Reuleut, Cot Tengku Nie, Muara Batu, Aceh Utara, Provinsi Aceh"
+        },
+        "layanan": {
+            "label": "Daftar Layanan",
+            "value": "Pengisian KRS, Kartu Hasil Studi (KHS), Transkrip Nilai, Pengurusan/Legalisir Ijazah, Surat Keterangan Aktif Kuliah, Cuti Kuliah, Surat Pengantar"
+        },
+        "link_website": {
+            "label": "Link Website",
+            "value": "https://portal.unimal.ac.id/"
+        },
+        "kontak": {
+            "label": "Kontak",
+            "value": "Email: baakpsi@unimal.ac.id, Telp: +62.645.41373"
+        }
+    },
+
+    "biro_keuangan": {
+        "nama": {
+            "label": "Nama Unit",
+            "value": "Biro Keuangan"
+        },
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Unit yang menangani administrasi keuangan kampus, mencakup pembayaran UKT, cetak slip pembayaran UKT, cetak slip gaji, dan penundaan/angsuran UKT."
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Mengelola penerimaan dan administrasi keuangan kampus, termasuk pembayaran UKT mahasiswa dan penggajian dosen/tenaga kependidikan."
+        },
+        "ketua_unit": {
+            "label": "Ketua/Kepala Unit",
+            "value": "Perlu verifikasi terbaru ke laman resmi Unimal (struktur organisasi)"
+        },
+        "alamat": {
+            "label": "Alamat",
+            "value": "Kampus Utama Reuleut, Cot Tengku Nie, Muara Batu, Aceh Utara, Provinsi Aceh"
+        },
+        "layanan": {
+            "label": "Daftar Layanan",
+            "value": "Pembayaran UKT, Cetak Slip Pembayaran UKT, Cetak Slip Gaji, Penundaan/Angsuran UKT"
+        },
+        "link_website": {
+            "label": "Link Website",
+            "value": "Belum ditemukan link website khusus (layanan cetak slip diproses melalui ULT)"
+        },
+        "kontak": {
+            "label": "Kontak",
+            "value": "Telp: +62.645.41373"
+        }
+    },
+
+    "pusat_bahasa": {
+        "nama": {
+            "label": "Nama Unit",
+            "value": "UPT Bahasa, Kehumasan, dan Penerbitan (UPT BKP)"
+        },
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Unit yang menyediakan layanan kebahasaan, mencakup tes TOEFL Prediksi, IELTS Prediksi, serta kursus/pelatihan bahasa."
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Menyelenggarakan tes dan pelatihan kemampuan bahasa, mengelola media sosial dan konten Unimal TV/podcast, serta penerbitan buku untuk mendukung kebutuhan akademik kampus."
+        },
+        "ketua_unit": {
+            "label": "Ketua/Kepala Unit",
+            "value": "Perlu verifikasi terbaru ke laman uptbkp.unimal.ac.id/profil"
+        },
+        "alamat": {
+            "label": "Alamat",
+            "value": "Kampus Utama Reuleut, Cot Tengku Nie, Muara Batu, Aceh Utara, Provinsi Aceh"
+        },
+        "layanan": {
+            "label": "Daftar Layanan",
+            "value": "TOEFL Prediksi, IELTS Prediksi, Kursus/Pelatihan Bahasa"
+        },
+        "link_website": {
+            "label": "Link Website",
+            "value": "https://uptbkp.unimal.ac.id/"
+        },
+        "kontak": {
+            "label": "Kontak",
+            "value": "Telp: +62.645.41373"
+        }
+    },
+
+    "perpustakaan": {
+        "nama": {
+            "label": "Nama Unit",
+            "value": "UPT Perpustakaan"
+        },
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Unit yang menyediakan layanan bahan pustaka, mencakup peminjaman buku (sirkulasi) dan akses koleksi e-book."
+        },
+        "tugas": {
+            "label": "Tugas",
+            "value": "Mengelola koleksi pustaka fisik dan digital, layanan keanggotaan, sirkulasi, referensi, akses jurnal, bebas pustaka, dan e-book bagi sivitas akademika."
+        },
+        "ketua_unit": {
+            "label": "Ketua/Kepala Unit",
+            "value": "Perlu verifikasi terbaru ke laman library.unimal.ac.id/profil"
+        },
+        "alamat": {
+            "label": "Alamat",
+            "value": "Kampus Utama Reuleut, Cot Tengku Nie, Muara Batu, Aceh Utara, Provinsi Aceh"
+        },
+        "layanan": {
+            "label": "Daftar Layanan",
+            "value": "Pinjam Buku (Sirkulasi), E-Book"
+        },
+        "link_website": {
+            "label": "Link Website",
+            "value": "https://library.unimal.ac.id/"
+        },
+        "kontak": {
+            "label": "Kontak",
+            "value": "Email: lib@unimal.ac.id, Telp: +62.645.41373"
+        }
+    }
+}

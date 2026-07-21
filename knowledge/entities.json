@@ -514,7 +514,7 @@
             ]
         },  
   "layanan_tik": {
-        "internet_wifi": [
+        "internet_jaringan_unimal": [
             "wifi",
             "wifi kampus",
             "internet kampus",
@@ -548,77 +548,207 @@
             "kuliah online"
         ],
 
-        "simail": [
-            "simail",
-            "sistem informasi akun email"
-        ],
-
-        "simpeg": [
-            "simpeg",
-            "sistem informasi kepegawaian"
-        ],
-
-        "sister": [
-            "sister",
-            "beban kerja dosen",
-            "bkd"
-        ],
-
-        "slot": [
-            "slot",
-            "sistem informasi penelitian",
-            "sistem informasi pengabdian"
+        "web_hosting":[
+            "web hosting",
+            "hosting",
+            "website hosting",
+            "hosting website"
         ]
     },
-    "atribut_layanan_tik": {
+        "atribut_layanan_tik": {
+
+            "deskripsi": [
+                "apa itu",
+                "pengertian",
+                "deskripsi",
+                "fungsi",
+                "kegunaan",
+                "itu apa"
+            ],
+
+            "website": [
+                "website",
+                "web",
+                "url",
+                "alamat website",
+                "alamat web",
+                "link website",
+                "situs",
+                "link"
+            ],
+
+            "cara_login": [
+                "login",
+                "masuk",
+                "cara login",
+                "cara masuk",
+                "signin"
+            ],
+
+            "cara_daftar": [
+                "cara daftar",
+                "cara membuat",
+                "cara memperoleh",
+                "registrasi",
+                "pendaftaran",
+                "buat akun"
+            ],
+
+            "syarat": [
+                "syarat",
+                "persyaratan",
+                "dokumen",
+                "berkas"
+            ],
+
+            "pengelola": [
+                "pengelola",
+                "dikelola oleh",
+                "penanggung jawab",
+                "siapa yang mengelola"
+            ],
+
+            "kontak": [
+                "kontak",
+                "helpdesk",
+                "call center",
+                "nomor bantuan",
+                "hubungi",
+                "pengaduan",
+                "mengadu"
+            ],
+
+            "kendala": [
+                "lupa password",
+                "reset password",
+                "akun terkunci",
+                "tidak bisa login",
+                "gagal login",
+                "masalah login",
+                "error",
+                "kendala",
+                "masalah",
+                "tidak bisa akses",
+                "tidak bisa diakses",
+                "tidak bisa dibuka",
+                "tidak bisa terhubung",
+                "bermasalah",
+                "rusak",
+                "tidak bisa"
+            ],
+
+            "pengguna": [
+                "siapa yang bisa menggunakan",
+                "untuk siapa",
+                "pengguna",
+                "sasaran layanan",
+                "yang dapat menggunakan"
+            ]
+    },
+    "biro_akademik": {
+        "krs": [
+            "krs", 
+            "kartu rencana studi", 
+            "pengisian krs"
+        ],
+
+        "khs": [
+            "khs", 
+            "kartu hasil studi", 
+            "nilai semester"
+        ],
+
+        "transkrip": [
+            "transkrip", 
+            "transkrip nilai", 
+            "transkrip akademik", 
+            "cetak transkrip"
+        ],
+        
+        "ijazah": [
+            "ijazah", 
+            "legalisir ijazah", 
+            "legalisir", 
+            "surat keterangan lulus", 
+            "skl"
+        ],
+
+        "surat_aktif": [
+            "surat aktif", 
+            "surat aktif kuliah", 
+            "surat keterangan aktif", 
+            "surat keterangan mahasiswa aktif"
+        ],
+
+        "cuti_kuliah": [
+            "cuti kuliah",
+            "cuti",
+            "cuti akademik", 
+            "berhenti sementara", 
+            "pengajuan cuti"
+        ],
+
+        "surat_pengantar": [
+            "surat pengantar", 
+            "surat pengantar penelitian", 
+            "surat pengantar kkn", 
+            "surat pengantar magang"
+        ]
+    },
+    "atribut_biro_akademik": {
 
         "deskripsi": [
             "apa itu",
             "pengertian",
             "deskripsi",
             "fungsi",
-            "kegunaan"
-        ],
-
-        "website": [
-            "website",
-            "web",
-            "url",
-            "alamat website",
-            "alamat web",
-            "link website",
-            "situs"
-        ],
-
-        "cara_login": [
-            "login",
-            "masuk",
-            "cara login",
-            "cara masuk",
-            "signin"
-        ],
-
-        "cara_daftar": [
-            "cara daftar",
-            "cara membuat",
-            "cara memperoleh",
-            "registrasi",
-            "pendaftaran",
-            "buat akun"
-        ],
-
-        "syarat": [
-            "syarat",
-            "persyaratan",
-            "dokumen",
-            "berkas"
+            "kegunaan",
+            "itu apa"
         ],
 
         "pengelola": [
             "pengelola",
             "dikelola oleh",
             "penanggung jawab",
-            "siapa yang mengelola"
+            "siapa yang mengelola",
+            "diurus oleh",
+            "pengurus"
+        ],
+
+        "prosedur": [
+            "prosedur",
+            "cara",
+            "bagaimana cara",
+            "tahapan",
+            "langkah-langkah",
+            "mekanisme",
+            "alur",
+            "pengurusan",
+            "tahap",
+            "langkah",
+            "mengisi",
+            "mengakses"
+        ],
+
+        "syarat": [
+            "syarat",
+            "persyaratan",
+            "dokumen",
+            "berkas",
+            "ketentuan"
+        ],
+
+        "kendala": [
+            "kendala",
+            "masalah",
+            "error",
+            "tidak bisa",
+            "bermasalah",
+            "gagal",
+            "hilang",
+            "belum keluar",
+            "belum terbit",
+            "tidak bisa"
         ],
 
         "kontak": [
@@ -626,26 +756,574 @@
             "helpdesk",
             "call center",
             "nomor bantuan",
-            "hubungi"
-        ],
-
-        "kendala": [
-            "lupa password",
-            "reset password",
-            "akun terkunci",
-            "tidak bisa login",
-            "gagal login",
-            "masalah login",
-            "error"
+            "hubungi",
+            "pengaduan",
+            "mengadu"
         ],
 
         "pengguna": [
             "siapa yang bisa menggunakan",
             "untuk siapa",
             "pengguna",
-            "sasaran layanan"
+            "sasaran layanan",
+            "yang dapat menggunakan",
+            "yang bisa mengajukan"
         ]
-    }          
+    },
+    "biro_keuangan": {
+        "pembayaran_ukt": [
+            "ukt",
+            "pembayaran ukt",
+            "bayar ukt",
+            "uang kuliah tunggal",
+            "bayar kuliah",
+            "cara bayar ukt"
+        ],
+
+        "cetak_slip_ukt": [
+            "slip ukt",
+            "cetak slip ukt",
+            "bukti pembayaran ukt",
+            "slip pembayaran ukt",
+            "cetak bukti bayar ukt"
+        ],
+
+        "cetak_slip_gaji": [
+            "slip gaji",
+            "cetak slip gaji",
+            "slip gaji dosen",
+            "slip gaji pegawai",
+            "bukti gaji"
+        ],
+
+        "penundaan_ukt": [
+            "penundaan ukt",
+            "angsuran ukt",
+            "cicilan ukt",
+            "keringanan ukt",
+            "penangguhan pembayaran ukt"
+        ]
+    },
+    "atribut_biro_keuangan": {
+
+            "deskripsi": [
+                "apa itu",
+                "pengertian",
+                "deskripsi",
+                "fungsi",
+                "kegunaan",
+                "itu apa"
+            ],
+
+            "pengelola": [
+                "pengelola",
+                "dikelola oleh",
+                "penanggung jawab",
+                "siapa yang mengelola",
+                "diurus oleh",
+                "pengurus"
+            ],
+
+            "prosedur": [
+                "prosedur",
+                "cara",
+                "bagaimana cara",
+                "tahapan",
+                "langkah-langkah",
+                "mekanisme",
+                "alur",
+                "pengurusan",
+                "tahap",
+                "langkah",
+                "cara bayar",
+                "cara mencetak",
+                "cara mengajukan"
+            ],
+
+            "syarat": [
+                "syarat",
+                "persyaratan",
+                "dokumen",
+                "berkas",
+                "ketentuan"
+            ],
+
+            "kendala": [
+                "kendala",
+                "masalah",
+                "error",
+                "tidak bisa",
+                "bermasalah",
+                "gagal",
+                "hilang",
+                "belum keluar",
+                "belum terbit",
+                "gagal bayar",
+                "tidak bisa dibayar",
+                "pembayaran tidak masuk",
+                "tidak bisa"
+            ],
+
+            "kontak": [
+                "kontak",
+                "helpdesk",
+                "call center",
+                "nomor bantuan",
+                "hubungi",
+                "pengaduan",
+                "mengadu"
+            ],
+
+            "pengguna": [
+                "siapa yang bisa menggunakan",
+                "untuk siapa",
+                "pengguna",
+                "sasaran layanan",
+                "yang dapat menggunakan",
+                "yang bisa mengajukan"
+            ],
+            "besaran": [
+                "berapa ukt",
+                "berapa",
+                "besaran ukt",
+                "biaya ukt",
+                "biaya kuliah",
+                "nominal ukt",
+                "tarif ukt",
+                "golongan ukt",
+                "rincian biaya",
+                "berapa biaya",
+                "ukt berapa"
+            ]
+        },
+        "perpustakaan": {
+            "pinjam_buku": [
+                "pinjam buku",
+                "peminjaman buku",
+                "pengembalian buku",
+                "perpanjang buku",
+                "sirkulasi perpustakaan",
+                "cara pinjam buku"
+            ],
+
+            "e_book": [
+                "e-book",
+                "ebook perpustakaan",
+                "buku digital",
+                "akses e-book",
+                "buku elektronik"
+            ]
+        },
+        "atribut_perpustakaan": {
+            "deskripsi": [
+                "apa itu",
+                "pengertian",
+                "deskripsi",
+                "fungsi",
+                "kegunaan",
+                "itu apa"
+            ],
+
+            "pengelola": [
+                "pengelola",
+                "dikelola oleh",
+                "penanggung jawab",
+                "siapa yang mengelola",
+                "diurus oleh",
+                "pengurus"
+            ],
+
+            "prosedur": [
+                "prosedur",
+                "cara",
+                "bagaimana cara",
+                "tahapan",
+                "langkah-langkah",
+                "mekanisme",
+                "alur",
+                "cara pinjam",
+                "cara akses",
+                "cara download"
+            ],
+
+            "syarat": [
+                "syarat",
+                "persyaratan",
+                "dokumen",
+                "berkas",
+                "ketentuan"
+            ],
+
+            "kendala": [
+                "kendala",
+                "masalah",
+                "error",
+                "tidak bisa",
+                "bermasalah",
+                "gagal",
+                "hilang",
+                "tidak bisa diakses",
+                "tidak bisa dipinjam",
+                "tidak bisa download"
+            ],
+
+            "kontak": [
+                "kontak",
+                "helpdesk",
+                "call center",
+                "nomor bantuan",
+                "hubungi",
+                "pengaduan",
+                "mengadu"
+            ],
+
+            "pengguna": [
+                "siapa yang bisa menggunakan",
+                "untuk siapa",
+                "pengguna",
+                "sasaran layanan",
+                "yang dapat menggunakan",
+                "yang bisa meminjam"
+            ]
+        },
+        "pusat_bahasa": {
+    "toefl_prediksi": [
+        "toefl",
+        "tes toefl",
+        "toefl prediksi",
+        "toefl unimal",
+        "tes bahasa inggris"
+    ],
+
+    "ielts_prediksi": [
+        "ielts",
+        "tes ielts",
+        "ielts prediksi",
+        "ielts unimal",
+        "tes ielts unimal"
+    ],
+
+    "kursus_bahasa": [
+        "kursus bahasa",
+        "kursus bahasa inggris",
+        "pelatihan bahasa",
+        "les bahasa",
+        "kelas bahasa unimal"
+    ]
+},
+"atribut_pusat_bahasa": {
+    "deskripsi": ["apa itu", "pengertian", "deskripsi", "fungsi", "kegunaan", "itu apa"],
+    "pengelola": ["pengelola", "dikelola oleh", "penanggung jawab", "siapa yang mengelola", "diurus oleh", "pengurus"],
+    "prosedur": ["prosedur", "cara", "bagaimana cara", "tahapan", "langkah-langkah", "mekanisme", "alur", "cara daftar", "cara ikut"],
+    "syarat": ["syarat", "persyaratan", "dokumen", "berkas", "ketentuan"],
+    "kendala": ["kendala", "masalah", "error", "tidak bisa", "bermasalah", "gagal", "akun tidak bisa aktivasi", "pembayaran tidak masuk"],
+    "kontak": ["kontak", "helpdesk", "call center", "nomor bantuan", "hubungi", "pengaduan", "mengadu"],
+    "pengguna": ["siapa yang bisa menggunakan", "untuk siapa", "pengguna", "sasaran layanan", "yang dapat menggunakan", "yang bisa ikut"]
+},
+"layanan": {
+    "layanan_tik": [
+        "layanan tik",
+        "puskom",
+        "upt tik",
+        "upt puskom",
+        "teknologi informasi dan komunikasi",
+        "tik"
+    ],
+
+    "biro_akademik": [
+        "biro akademik",
+        "baak",
+        "baakpsi",
+        "bagian akademik",
+        "administrasi akademik"
+    ],
+
+    "biro_keuangan": [
+        "biro keuangan",
+        "bagian keuangan",
+        "administrasi keuangan"
+    ],
+
+    "pusat_bahasa": [
+        "pusat bahasa",
+        "upt bkp",
+        "upt bahasa",
+        "bahasa kehumasan dan penerbitan"
+    ],
+
+    "perpustakaan": [
+        "perpustakaan",
+        "upt perpustakaan",
+        "library unimal",
+        "perpus"
+    ]
+},
+"atribut_layanan": {
+
+    "deskripsi": [
+        "apa itu",
+        "pengertian",
+        "deskripsi",
+        "itu apa",
+        "jelaskan",
+        "itu apa"
+    ],
+
+    "tugas": [
+        "tugas",
+        "fungsi",
+        "apa tugas",
+        "apa fungsi",
+        "tanggung jawab",
+        "mengurus apa saja"
+    ],
+
+    "ketua_unit": [
+        "ketua",
+        "kepala",
+        "siapa ketua",
+        "siapa kepala",
+        "pimpinan",
+        "penanggung jawab unit"
+    ],
+
+    "alamat": [
+        "alamat",
+        "lokasi",
+        "letak",
+        "dimana letaknya",
+        "dimana lokasinya",
+        "gedung",
+        "berada dimana"
+    ],
+
+    "layanan": [
+        "layanan apa saja",
+        "layanan",
+        "apa saja layanan",
+        "layanan yang disediakan",
+        "daftar layanan",
+        "menyediakan layanan apa"
+    ],
+
+    "link_website": [
+        "website",
+        "web",
+        "url",
+        "alamat website",
+        "link website",
+        "situs"
+    ],
+
+    "kontak": [
+        "kontak",
+        "helpdesk",
+        "call center",
+        "nomor bantuan",
+        "hubungi",
+        "email",
+        "nomor telepon"
+    ]
+},
+"program_mahasiswa": {
+    "kkn": [
+        "kkn",
+        "kuliah kerja nyata",
+        "kkn-ppm",
+        "kkn unimal",
+        "kuliah kerja nyata unimal"
+    ],
+
+    "magang_kp": [
+        "magang",
+        "kerja praktek",
+        "kerja praktik",
+        "kp",
+        "praktik kerja lapangan",
+        "pkl"
+    ],
+
+    "wisuda": [
+        "wisuda",
+        "pendaftaran wisuda",
+        "yudisium",
+        "kelulusan",
+        "wisuda unimal"
+    ]
+},
+"atribut_program_mahasiswa": {
+
+    "deskripsi": [
+        "apa itu",
+        "pengertian",
+        "deskripsi",
+        "fungsi",
+        "kegunaan",
+        "itu apa"
+    ],
+
+    "pengelola": [
+        "pengelola",
+        "dikelola oleh",
+        "penanggung jawab",
+        "siapa yang mengelola",
+        "diurus oleh",
+        "pengurus"
+    ],
+
+    "prosedur": [
+        "prosedur",
+        "cara",
+        "bagaimana cara",
+        "tahapan",
+        "langkah-langkah",
+        "mekanisme",
+        "alur",
+        "pengurusan",
+        "tahap",
+        "langkah",
+        "cara daftar",
+        "cara mengikuti",
+        "daftar"
+    ],
+
+    "syarat": [
+        "syarat",
+        "persyaratan",
+        "dokumen",
+        "berkas",
+        "ketentuan"
+    ],
+
+    "kendala": [
+        "kendala",
+        "masalah",
+        "error",
+        "tidak bisa",
+        "bermasalah",
+        "gagal",
+        "belum keluar",
+        "belum terbit",
+        "tidak bisa daftar",
+        "tidak bisa"
+    ],
+
+    "kontak": [
+        "kontak",
+        "helpdesk",
+        "call center",
+        "nomor bantuan",
+        "hubungi",
+        "pengaduan",
+        "mengadu"
+    ],
+
+    "pengguna": [
+        "siapa yang bisa menggunakan",
+        "untuk siapa",
+        "pengguna",
+        "sasaran layanan",
+        "yang dapat menggunakan",
+        "yang bisa mengikuti",
+        "yang bisa mendaftar"
+    ]
+},
+"beasiswa": {
+    "kip_kuliah": [
+        "kip",
+        "kip kuliah",
+        "kartu indonesia pintar kuliah",
+        "bidikmisi",
+        "beasiswa kip"
+    ],
+
+    "ppa": [
+        "ppa",
+        "beasiswa ppa",
+        "peningkatan prestasi akademik",
+        "beasiswa prestasi akademik"
+    ],
+
+    "beasiswa_bi": [
+        "beasiswa bi",
+        "beasiswa bank indonesia",
+        "beasiswa bi unimal"
+    ]
+},
+"atribut_beasiswa": {
+
+    "deskripsi": [
+        "apa itu",
+        "pengertian",
+        "deskripsi",
+        "fungsi",
+        "kegunaan",
+        "itu apa"
+    ],
+
+    "pengelola": [
+        "pengelola",
+        "dikelola oleh",
+        "penanggung jawab",
+        "siapa yang mengelola",
+        "diurus oleh",
+        "pengurus"
+    ],
+
+    "prosedur": [
+        "prosedur",
+        "cara",
+        "bagaimana cara",
+        "tahapan",
+        "langkah-langkah",
+        "mekanisme",
+        "alur",
+        "cara daftar",
+        "cara mendaftar"
+    ],
+
+    "syarat": [
+        "syarat",
+        "persyaratan",
+        "dokumen",
+        "berkas",
+        "ketentuan"
+    ],
+
+    "kendala": [
+        "kendala",
+        "masalah",
+        "error",
+        "tidak bisa",
+        "bermasalah",
+        "gagal",
+        "tidak lulus",
+        "tidak lolos",
+        "belum cair",
+        "belum masuk"
+    ],
+
+    "kontak": [
+        "kontak",
+        "helpdesk",
+        "call center",
+        "nomor bantuan",
+        "hubungi",
+        "pengaduan",
+        "mengadu"
+    ],
+
+    "pengguna": [
+        "siapa yang bisa menggunakan",
+        "untuk siapa",
+        "pengguna",
+        "sasaran layanan",
+        "yang dapat menggunakan",
+        "yang bisa mendaftar",
+        "yang berhak"
+    ]
+}
+
 }
 
 

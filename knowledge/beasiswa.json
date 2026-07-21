@@ -1,0 +1,127 @@
+{
+    "kip_kuliah": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Beasiswa KIP Kuliah"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Bantuan biaya pendidikan dari pemerintah bagi mahasiswa dengan potensi akademik baik namun memiliki keterbatasan ekonomi, mencakup bantuan biaya kuliah dan biaya hidup selama masa studi."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI) bekerja sama dengan Kemdikbudristek/Puslapdik"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Calon mahasiswa mendaftar KIP Kuliah melalui portal resmi KIP Kuliah pada saat pendaftaran mahasiswa baru (jalur SNBP/SNBT/Mandiri), kemudian mengikuti proses seleksi administrasi dan wawancara yang diselenggarakan pihak kampus."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Merupakan calon mahasiswa baru atau mahasiswa aktif dengan keterbatasan ekonomi yang dibuktikan melalui data terverifikasi (seperti DTKS/SKTM), memiliki potensi akademik baik, dan lolos seleksi administrasi serta wawancara."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika tidak lulus seleksi KIP Kuliah, dana belum cair, atau ada kendala data, mahasiswa dapat menghubungi BAAKPSI atau bagian kemahasiswaan untuk informasi lebih lanjut dan opsi beasiswa lain yang tersedia."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI) Universitas Malikussaleh"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Calon mahasiswa baru dan mahasiswa aktif dengan keterbatasan ekonomi dan potensi akademik baik"
+    }
+},
+
+"ppa": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Beasiswa Peningkatan Prestasi Akademik (PPA)"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Beasiswa yang diberikan kepada mahasiswa aktif berprestasi akademik sebagai bentuk apresiasi dan dukungan agar mahasiswa dapat terus meningkatkan prestasinya di bidang akademik."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI) Universitas Malikussaleh"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa mengajukan permohonan beasiswa PPA melalui Program Studi/Fakultas dengan melengkapi berkas yang diminta, kemudian diseleksi dan diusulkan ke pihak kampus untuk penetapan penerima."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Terdaftar sebagai mahasiswa aktif dengan Indeks Prestasi Kumulatif (IPK) memenuhi batas minimal yang ditentukan, aktif dalam kegiatan akademik/organisasi kemahasiswaan, dan tidak sedang menerima beasiswa lain dari sumber APBN/APBD pada periode yang sama."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika tidak lolos seleksi PPA atau dana belum cair, mahasiswa dapat menghubungi Program Studi atau BAAKPSI untuk informasi lebih lanjut."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI) Universitas Malikussaleh"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa aktif Universitas Malikussaleh yang berprestasi akademik"
+    }
+},
+
+"beasiswa_bi": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Beasiswa Bank Indonesia"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Beasiswa dari Bank Indonesia bagi mahasiswa berprestasi sebagai bentuk kerja sama dan kepedulian Bank Indonesia terhadap dunia pendidikan di Unimal."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI) bekerja sama dengan Bank Indonesia"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa mengajukan permohonan beasiswa Bank Indonesia melalui jalur yang dibuka kampus saat periode pendaftaran, melengkapi berkas yang diminta, dan mengikuti tahapan seleksi yang ditentukan pihak kampus bersama Bank Indonesia."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Terdaftar sebagai mahasiswa aktif dengan prestasi akademik baik, aktif berorganisasi, dan memenuhi persyaratan administratif lain yang ditentukan sesuai ketentuan program beasiswa Bank Indonesia."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika tidak lolos seleksi atau ada kendala pencairan dana, mahasiswa dapat menghubungi BAAKPSI atau Generasi Baru Indonesia (GenBI) Unimal selaku komunitas penerima beasiswa BI di kampus."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI) Universitas Malikussaleh"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa aktif Universitas Malikussaleh yang berprestasi akademik dan/atau organisasi"
+    }
+}
+}

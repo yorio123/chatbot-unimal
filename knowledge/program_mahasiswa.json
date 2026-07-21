@@ -1,0 +1,126 @@
+{"kkn": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Kuliah Kerja Nyata (KKN)"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Program pengabdian kepada masyarakat yang wajib ditempuh mahasiswa, di mana mahasiswa terjun langsung ke desa-desa untuk melaksanakan kegiatan pemberdayaan masyarakat sebagai bagian dari Tri Dharma Perguruan Tinggi."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) melalui Pusat Pengabdian kepada Masyarakat"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa mendaftar KKN pada periode yang dibuka LPPM tiap semester melalui link pendaftaran yang diumumkan di unimal.ac.id, memilih skema KKN yang tersedia, dan dapat mendaftar secara berkelompok maupun perseorangan. Sebelum mendaftar, mahasiswa disarankan membaca panduan teknis KKN yang telah disediakan."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Terdaftar sebagai mahasiswa aktif yang telah memenuhi ketentuan jumlah SKS/semester minimal sesuai panduan akademik, serta mendaftar sesuai jadwal dan skema KKN yang dipilih (KKN Membangun Kampung, KKN-PPM, atau KKN Rekognisi Pembelajaran Lampau)."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika ada kendala pendaftaran, pembagian kelompok, atau lokasi KKN, mahasiswa dapat menghubungi Pusat Pengabdian kepada Masyarakat LPPM atau Dosen Pembimbing Lapangan (DPL) terkait."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "LPPM Universitas Malikussaleh (Pusat Pengabdian kepada Masyarakat)"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa aktif Universitas Malikussaleh yang telah memenuhi syarat mengikuti KKN"
+    }
+},
+
+"magang_kp": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Kerja Praktik (KP) / Magang"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Kegiatan praktik kerja yang wajib atau dianjurkan ditempuh mahasiswa di instansi/industri terkait bidang keilmuannya, untuk mendapatkan pengalaman kerja nyata dan bahan penyusunan laporan/tugas akhir."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Program Studi bekerja sama dengan Fakultas dan Dosen Pembimbing Kerja Praktik/Magang"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa menentukan lokasi/instansi tempat kerja praktik/magang, mengajukan surat pengantar dari Program Studi, mendapat persetujuan Koordinator Prodi, kemudian melaksanakan kerja praktik/magang dengan bimbingan Dosen Pembimbing dan Pembimbing Lapangan di instansi tersebut."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Terdaftar sebagai mahasiswa aktif yang telah menempuh jumlah SKS minimal sesuai ketentuan Program Studi, serta telah mendapatkan surat pengantar dan persetujuan instansi tujuan."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika ada kendala pengajuan surat pengantar, penempatan lokasi, atau bimbingan selama kerja praktik/magang, mahasiswa dapat menghubungi Koordinator Program Studi atau Dosen Pembimbing terkait."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Program Studi masing-masing fakultas"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa aktif Universitas Malikussaleh yang telah memenuhi syarat kerja praktik/magang"
+    }
+},
+
+"wisuda": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Wisuda"
+    },
+
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Upacara akademik pengukuhan kelulusan bagi mahasiswa yang telah menyelesaikan seluruh rangkaian studi dan dinyatakan lulus (yudisium), sebagai penanda resmi status sebagai alumni Universitas Malikussaleh."
+    },
+
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI)"
+    },
+
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Mahasiswa yang sudah yudisium login dan mengisi biodata di ijazah.unimal.ac.id, kemudian login ke wisuda.unimal.ac.id untuk melengkapi pendaftaran, mengunggah dokumen yang diminta, dan mencetak Kartu Bukti Pendaftaran Wisuda sebagai bukti pendaftaran berhasil."
+    },
+
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Telah dinyatakan lulus/yudisium, mendaftar dalam periode pendaftaran yang ditentukan, dan kuota peserta wisuda per angkatan belum terpenuhi (sistem pendaftaran otomatis tertutup jika kuota sudah penuh)."
+    },
+
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika Kartu Bukti Pendaftaran Wisuda tidak tertera nama/angkatan yang benar, atau ada kendala lain saat pendaftaran, mahasiswa dapat menghubungi panitia wisuda di Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI) kampus Reuleut."
+    },
+
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "Panitia Wisuda, Biro Akademik, Kemahasiswaan, Perencanaan dan Kerjasama (BAAKPSI) Universitas Malikussaleh"
+    },
+
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa yang telah dinyatakan lulus (yudisium) Universitas Malikussaleh"
+    }
+}
+}

@@ -1,0 +1,106 @@
+{
+    "toefl_prediksi": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "TOEFL Prediksi"
+    },
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Tes untuk mengukur kemampuan bahasa Inggris peserta guna memenuhi kebutuhan akademik dan profesional, seperti syarat kelulusan, beasiswa, atau melamar kerja."
+    },
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "UPT Bahasa, Kehumasan, dan Penerbitan (UPT BKP) Universitas Malikussaleh"
+    },
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Peserta membuat akun di Aplikasi Layanan Bahasa (ALBa), melakukan aktivasi akun melalui email yang didaftarkan, login ke ALBa, melengkapi profil, lalu mendaftar tes TOEFL Prediksi dan melakukan pembayaran sesuai instruksi yang diberikan."
+    },
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Memiliki akun terdaftar di Aplikasi Layanan Bahasa (ALBa) dan telah melakukan pembayaran biaya tes sesuai ketentuan yang berlaku."
+    },
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika ada kendala pendaftaran, aktivasi akun, atau pembayaran, peserta dapat menghubungi Admin UPT BKP melalui kontak yang tersedia."
+    },
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "UPT Bahasa, Kehumasan, dan Penerbitan (UPT BKP) Universitas Malikussaleh"
+    },
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa, dosen, tenaga kependidikan, dan masyarakat umum"
+    }
+},
+
+"ielts_prediksi": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "IELTS Prediksi"
+    },
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Tes kemampuan bahasa Inggris peserta guna mendukung kebutuhan akademik, profesional, dan migrasi internasional."
+    },
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "UPT Bahasa, Kehumasan, dan Penerbitan (UPT BKP) Universitas Malikussaleh"
+    },
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Peserta membuat akun di Aplikasi Layanan Bahasa (ALBa), melakukan aktivasi akun melalui email yang didaftarkan, login ke ALBa, melengkapi profil, lalu mendaftar tes IELTS Prediksi dan melakukan pembayaran sesuai instruksi yang diberikan."
+    },
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Memiliki akun terdaftar di Aplikasi Layanan Bahasa (ALBa) dan telah melakukan pembayaran biaya tes sesuai ketentuan yang berlaku."
+    },
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika ada kendala pendaftaran, aktivasi akun, atau pembayaran, peserta dapat menghubungi Admin UPT BKP melalui kontak yang tersedia."
+    },
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "UPT Bahasa, Kehumasan, dan Penerbitan (UPT BKP) Universitas Malikussaleh"
+    },
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa, dosen, tenaga kependidikan, dan masyarakat umum"
+    }
+},
+
+"kursus_bahasa": {
+    "nama": {
+        "label": "Nama Layanan",
+        "value": "Kursus/Pelatihan Bahasa"
+    },
+    "deskripsi": {
+        "label": "Deskripsi",
+        "value": "Layanan kelas kursus dan pelatihan bahasa untuk mendukung persiapan tes kemampuan bahasa (seperti TOEFL/IELTS) maupun peningkatan kemampuan berbahasa secara umum."
+    },
+    "pengelola": {
+        "label": "Pengelola",
+        "value": "UPT Bahasa, Kehumasan, dan Penerbitan (UPT BKP) Universitas Malikussaleh"
+    },
+    "prosedur": {
+        "label": "Prosedur",
+        "value": "Peserta mendaftar kursus/pelatihan bahasa melalui Aplikasi Layanan Bahasa (ALBa) atau kontak yang disediakan UPT BKP, kemudian mengikuti jadwal kelas yang ditentukan."
+    },
+    "syarat": {
+        "label": "Syarat / Ketentuan",
+        "value": "Mengisi formulir pendaftaran kursus dan melakukan pembayaran biaya kursus sesuai paket/jenis kursus yang dipilih."
+    },
+    "kendala": {
+        "label": "Solusi Kendala Umum",
+        "value": "Jika ada kendala pendaftaran atau jadwal kursus, peserta dapat menghubungi Admin UPT BKP untuk informasi lebih lanjut."
+    },
+    "kontak": {
+        "label": "Kontak Bantuan",
+        "value": "UPT Bahasa, Kehumasan, dan Penerbitan (UPT BKP) Universitas Malikussaleh"
+    },
+    "pengguna": {
+        "label": "Penerima Layanan",
+        "value": "Mahasiswa, dosen, tenaga kependidikan, dan masyarakat umum"
+    }
+}
+}

@@ -1,0 +1,289 @@
+{
+        "krs": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Pengisian Kartu Rencana Studi (KRS)"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Layanan akademik bagi mahasiswa untuk merencanakan dan mengambil mata kuliah yang akan ditempuh pada semester berjalan, dengan persetujuan Dosen Pembimbing/Penasehat Akademik (PA)."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "Biro/Bagian Akademik bekerja sama dengan Program Studi dan Dosen Pembimbing Akademik (PA)"
+        },
+
+        "prosedur": {
+            "label": "Prosedur Pengisian",
+            "value": "Mahasiswa mengisi KRS secara daring melalui Portal Akademik sesuai jadwal yang telah ditentukan pada kalender akademik, dengan mempertimbangkan hasil studi (KHS) semester sebelumnya. Pengisian di lakukan melalui portal.unimal.ac.id"
+        },
+
+        "syarat": {
+            "label": "Syarat / Ketentuan",
+            "value": "Terdaftar sebagai mahasiswa aktif, telah melakukan registrasi/pembayaran UKT semester berjalan, dan memperoleh KHS semester sebelumnya untuk acuan pengambilan jumlah SKS."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika ada kendala pengisian KRS (kuota mata kuliah, jumlah SKS, atau approval), mahasiswa perlu menghubungi Dosen Pembimbing Akademik atau Program Studi masing-masing."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "Program Studi / Biro Akademik masing-masing fakultas"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Mahasiswa aktif Universitas Malikussaleh"
+        }
+    },
+        "khs": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Kartu Hasil Studi (KHS)"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Dokumen akademik yang memuat daftar mata kuliah beserta nilai yang diperoleh mahasiswa pada satu semester, digunakan sebagai acuan Indeks Prestasi (IP) dan dasar pengambilan jumlah SKS semester berikutnya."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "Biro/Bagian Akademik bekerja sama dengan Program Studi"
+        },
+
+        "prosedur": {
+            "label": "Prosedur",
+            "value": "Mahasiswa dapat melihat dan mencetak KHS melalui Portal Akademik setelah proses input dan pengolahan nilai oleh dosen pengampu mata kuliah selesai dilakukan di akhir semester."
+        },
+
+        "syarat": {
+            "label": "Syarat / Ketentuan",
+            "value": "Terdaftar sebagai mahasiswa aktif dan seluruh nilai mata kuliah semester berjalan telah diinput oleh dosen pengampu ke sistem akademik."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika nilai belum muncul atau ada nilai yang tidak sesuai, mahasiswa perlu menghubungi dosen pengampu mata kuliah terkait atau Program Studi untuk verifikasi dan perbaikan nilai."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "Program Studi / Biro Akademik masing-masing fakultas"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Mahasiswa aktif Universitas Malikussaleh"
+        }
+    },
+        "transkrip": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Transkrip Nilai Akademik"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Dokumen akademik resmi yang memuat rekapitulasi seluruh mata kuliah dan nilai yang telah ditempuh mahasiswa dari semester awal hingga semester terakhir, berbeda dari KHS yang hanya mencakup satu semester."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "Biro/Bagian Akademik bekerja sama dengan Program Studi"
+        },
+
+        "prosedur": {
+            "label": "Prosedur",
+            "value": "Mahasiswa mengajukan permohonan cetak transkrip nilai ke Program Studi/Biro Akademik, yang kemudian akan diverifikasi kesesuaiannya dengan data akademik sebelum diterbitkan dan ditandatangani pejabat berwenang."
+        },
+
+        "syarat": {
+            "label": "Syarat / Ketentuan",
+            "value": "Terdaftar sebagai mahasiswa aktif atau alumni, seluruh nilai mata kuliah yang diambil telah lengkap tercatat di sistem akademik, dan tidak memiliki tunggakan administratif (jika berlaku)."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika ada nilai yang tidak sesuai atau belum tercatat pada transkrip, mahasiswa perlu menghubungi Program Studi untuk verifikasi dan perbaikan sebelum transkrip diterbitkan."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "Program Studi / Biro Akademik masing-masing fakultas"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Mahasiswa aktif dan alumni Universitas Malikussaleh"
+        }
+    },
+    "ijazah": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Pengurusan dan Legalisir Ijazah"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Layanan penerbitan ijazah asli bagi lulusan, serta legalisir salinan ijazah dan transkrip nilai untuk keperluan resmi seperti melamar kerja, melanjutkan studi, atau persyaratan administrasi lainnya."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "Biro/Bagian Akademik bekerja sama dengan Program Studi dan Fakultas"
+        },
+
+        "prosedur": {
+            "label": "Prosedur",
+            "value": "Untuk penerbitan ijazah, mahasiswa melengkapi persyaratan yang ditentukan pada saat pendaftaran sidang/ujian akhir. Untuk legalisir, alumni/mahasiswa membawa ijazah dan transkrip asli beserta salinan yang akan dilegalisir ke Program Studi/Biro Akademik untuk diverifikasi dan distempel/ditandatangani pejabat berwenang."
+        },
+
+        "syarat": {
+            "label": "Syarat / Ketentuan",
+            "value": "Memiliki ijazah dan transkrip nilai asli sebagai dasar verifikasi, serta melengkapi persyaratan administratif sesuai ketentuan Program Studi/Fakultas masing-masing."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika ijazah belum terbit, ada kesalahan data pada ijazah, atau kendala legalisir, mahasiswa/alumni dapat menghubungi Program Studi atau Biro Akademik terkait."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "Program Studi / Biro Akademik masing-masing fakultas"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Mahasiswa yang telah lulus (yudisium) dan alumni Universitas Malikussaleh"
+        }
+    },
+    "surat_aktif": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Surat Keterangan Aktif Kuliah"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Surat resmi yang menyatakan bahwa mahasiswa masih berstatus aktif kuliah, digunakan untuk berbagai keperluan seperti pengajuan beasiswa, tunjangan orang tua (PNS/pensiunan), BPJS, dan keperluan administratif lainnya."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "Dekanat Fakultas bekerja sama dengan Biro/Bagian Akademik"
+        },
+
+        "prosedur": {
+            "label": "Prosedur",
+            "value": "Mahasiswa mengajukan permohonan surat keterangan aktif kuliah melalui link/formulir pengajuan yang disediakan Dekanat. Setelah disetujui, surat dapat diambil langsung di loket fakultas masing-masing."
+        },
+
+        "syarat": {
+            "label": "Syarat / Ketentuan",
+            "value": "Terdaftar sebagai mahasiswa aktif dan telah melakukan pembayaran UKT/registrasi semester berjalan."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika pengajuan belum diproses atau surat belum bisa diambil, mahasiswa dapat menghubungi Dekanat/Bagian Akademik fakultas masing-masing."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "Dekanat / Bagian Akademik masing-masing fakultas"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Mahasiswa aktif Universitas Malikussaleh"
+        }
+    },
+    "cuti_kuliah": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Cuti Kuliah (Cuti Akademik)"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Izin resmi bagi mahasiswa untuk tidak mengikuti kegiatan akademik atau berhenti studi sementara dalam jangka waktu satu semester, dengan tetap berstatus terdaftar sebagai mahasiswa."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "Biro/Bagian Akademik bekerja sama dengan Program Studi dan Fakultas"
+        },
+
+        "prosedur": {
+            "label": "Prosedur",
+            "value": "Mahasiswa mengajukan permohonan cuti akademik sesuai jadwal pada kalender akademik, dengan mengisi formulir permohonan cuti yang disetujui oleh Dosen Pembimbing Akademik dan pimpinan Program Studi/Fakultas, sebelum diteruskan ke Biro Akademik."
+        },
+
+        "syarat": {
+            "label": "Syarat / Ketentuan",
+            "value": "Telah menempuh minimal satu atau dua semester perkuliahan, tidak sedang mengerjakan tugas akhir/skripsi, dan mengajukan permohonan sesuai periode yang ditentukan pada kalender akademik."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika ada kendala pengajuan cuti (melewati batas waktu, persetujuan belum keluar, atau status akademik tidak sesuai), mahasiswa perlu menghubungi Dosen Pembimbing Akademik atau Program Studi/Biro Akademik terkait."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "Program Studi / Biro Akademik masing-masing fakultas"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Mahasiswa aktif Universitas Malikussaleh"
+        }
+    },
+    "surat_pengantar": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Surat Pengantar (Penelitian, Magang, KKN)"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Surat resmi dari kampus yang diperlukan mahasiswa untuk keperluan penelitian tugas akhir/mata kuliah, magang/praktik kerja lapangan, KKN, atau kegiatan akademik lain yang membutuhkan izin ke instansi/lokasi tujuan."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "Program Studi/Fakultas, serta LPPM-PPM untuk surat terkait KKN"
+        },
+
+        "prosedur": {
+            "label": "Prosedur",
+            "value": "Mahasiswa menentukan lokasi/instansi tujuan, mengisi formulir permohonan surat (magang/penelitian) yang disediakan Program Studi untuk mendapatkan persetujuan Koordinator Prodi, kemudian surat yang telah disetujui dapat diunduh atau diambil di link/loket yang ditentukan."
+        },
+
+        "syarat": {
+            "label": "Syarat / Ketentuan",
+            "value": "Terdaftar sebagai mahasiswa aktif, telah menentukan lokasi/instansi tujuan kegiatan (magang/penelitian/KKN), dan mengisi data yang diminta pada formulir permohonan sesuai jenis surat yang dibutuhkan."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika surat belum diproses atau ada kesalahan data pada surat, mahasiswa perlu menghubungi Program Studi/Koordinator Prodi terkait, atau LPPM-PPM khusus untuk surat yang berkaitan dengan KKN."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "Program Studi masing-masing fakultas / LPPM-PPM Universitas Malikussaleh (untuk KKN)"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Mahasiswa aktif Universitas Malikussaleh"
+        }
+    }
+}

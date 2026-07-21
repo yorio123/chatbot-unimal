@@ -49,5 +49,209 @@
             "label": "Penerima Layanan",
             "value": "Dosen, tenaga kependidikan, dan mahasiswa aktif"
         }
+    },
+    "web_hosting": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Layanan Web Hosting"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Layanan hosting gratis dari UPT TIK bagi fakultas, program studi, dan unit kerja resmi kampus yang ingin mempublikasikan situs/website informasinya ke internet."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "UPT Teknologi Informasi dan Komunikasi (TIK) / Puskom"
+        },
+
+        "website": {
+            "label": "Website / Link Akses",
+            "value": "https://puskom.unimal.ac.id/layanan-tik/layanan-web-hosting"
+        },
+
+        "cara_login": {
+            "label": "Cara Akses / Login",
+            "value": "Login menggunakan akun yang telah didaftarkan melalui Aplikasi Web Layanan UPT.TIK untuk mengelola situs yang dihosting."
+        },
+
+        "cara_daftar": {
+            "label": "Cara Pendaftaran",
+            "value": "Login ke Aplikasi Web Layanan UPT.TIK, mengisi biodata permohonan hosting sesuai formulir yang tersedia."
+        },
+
+        "syarat": {
+            "label": "Syarat / Dokumen",
+            "value": "Terdaftar sebagai mahasiswa, dosen, atau karyawan Unimal; wajib sudah memiliki akun email resmi @unimal.ac.id; menyetujui ketentuan penggunaan hosting UPT.TIK."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika ada masalah teknis pada situs yang dihosting atau permohonan hosting, hubungi UPT TIK melalui ULT atau kontak langsung."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "UPT TIK Universitas Malikussaleh, Telp: +62.645.41373"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Fakultas, program studi, dan unit kerja resmi di lingkungan Unimal"
+        }
+    },
+    "portal_akademik": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Portal Akademik"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Sistem informasi akademik yang menyediakan layanan administrasi akademik bagi dosen, tenaga kependidikan, dan mahasiswa, mencakup pengisian KRS, jadwal perkuliahan, akses nilai, dan bimbingan akademik."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "UPT Teknologi Informasi dan Komunikasi (TIK) / Puskom, bekerja sama dengan bagian akademik"
+        },
+
+        "website": {
+            "label": "Website / Link Akses",
+            "value": "https://portal.unimal.ac.id/"
+        },
+
+        "cara_login": {
+            "label": "Cara Akses / Login",
+            "value": "Login menggunakan username dan password akun akademik masing-masing (NIM untuk mahasiswa, NIDN/NIP untuk dosen dan tendik) melalui portal.unimal.ac.id."
+        },
+
+        "cara_daftar": {
+            "label": "Cara Pendaftaran",
+            "value": "Akun otomatis dibuatkan oleh bagian akademik/BAAK saat mahasiswa/dosen terdaftar resmi di sistem kampus, tanpa perlu pendaftaran mandiri."
+        },
+
+        "syarat": {
+            "label": "Syarat / Dokumen",
+            "value": "Terdaftar sebagai mahasiswa aktif, dosen, atau tenaga kependidikan resmi Unimal dengan NIM/NIDN/NIP yang valid."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika lupa password, akun terkunci, atau data akademik (KRS/nilai) tidak sesuai, hubungi bagian akademik fakultas/BAAK atau UPT TIK."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "UPT TIK Universitas Malikussaleh, Telp: +62.645.41373"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Dosen, tenaga kependidikan, dan mahasiswa aktif"
+        }
+    },
+    "elearning_unimal": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "E-Learning Unimal"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Sistem pembelajaran daring berbasis platform Moodle yang digunakan dosen dan mahasiswa untuk kegiatan belajar-mengajar online, termasuk materi kuliah, tugas, forum diskusi, dan absensi perkuliahan."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "UPT Teknologi Informasi dan Komunikasi (TIK) / Puskom"
+        },
+
+        "website": {
+            "label": "Website / Link Akses",
+            "value": "https://elearning.unimal.ac.id/"
+        },
+
+        "cara_login": {
+            "label": "Cara Akses / Login",
+            "value": "Login menggunakan akun email resmi @unimal.ac.id melalui https://elearning.unimal.ac.id/."
+        },
+
+        "cara_daftar": {
+            "label": "Cara Pendaftaran",
+            "value": "Bagi pengguna baru yang belum pernah mendaftar, pendaftaran akun dilakukan mengikuti panduan resmi Pendaftaran Akun e-Learning yang tersedia di situs e-Learning."
+        },
+
+        "syarat": {
+            "label": "Syarat / Dokumen",
+            "value": "Memiliki akun email resmi @unimal.ac.id yang aktif sebagai dosen atau mahasiswa Unimal."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika ada permasalahan atau kendala akses, hubungi UPT Pusat Komputer (Puskom) Universitas Malikussaleh melalui email puskom@unimal.ac.id."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "UPT TIK Universitas Malikussaleh, Email: puskom@unimal.ac.id, Telp: +62.645.41373"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Dosen dan mahasiswa aktif"
+        }
+    },
+    "internet_jaringan_unimal": {
+        "nama": {
+            "label": "Nama Layanan",
+            "value": "Layanan Internet dan Jaringan (WiFi)"
+        },
+
+        "deskripsi": {
+            "label": "Deskripsi",
+            "value": "Layanan koneksi internet dan intranet melalui kabel maupun wi-fi yang disediakan UPT TIK untuk seluruh sivitas akademika, guna memperlancar kinerja karyawan/staf, dosen, dan mahasiswa dalam bidangnya masing-masing."
+        },
+
+        "pengelola": {
+            "label": "Pengelola",
+            "value": "UPT Teknologi Informasi dan Komunikasi (TIK) / Puskom"
+        },
+
+        "website": {
+            "label": "Website / Link Akses",
+            "value": "https://puskom.unimal.ac.id/layanan-tik/layanan-internet-dan-jaringan"
+        },
+
+        "cara_login": {
+            "label": "Cara Akses / Login",
+            "value": "Tersambung langsung melalui jaringan kabel atau wi-fi yang tersedia di lingkungan kampus Bukit Indah dan kampus utama Reuleut, tanpa proses login akun khusus."
+        },
+
+        "cara_daftar": {
+            "label": "Cara Pendaftaran",
+            "value": "Untuk instalasi jaringan baru di suatu unit kerja, UPT Puskom memfasilitasi dari sisi instalasi pertama, pemeliharaan, dan pelatihan penggunaan; pengajuan dapat dikoordinasikan langsung dengan UPT TIK."
+        },
+
+        "syarat": {
+            "label": "Syarat / Dokumen",
+            "value": "Merupakan bagian dari sivitas akademika Unimal (mahasiswa, dosen, karyawan/staf) yang berada dalam jangkauan area kampus yang terhubung jaringan FO."
+        },
+
+        "kendala": {
+            "label": "Solusi Kendala Umum",
+            "value": "Jika mengalami kerusakan atau gangguan jaringan, laporkan ke UPT Puskom dengan mengunduh Form Gangguan, mengisinya, menandatanganinya oleh Kepala bagian, lalu mengirimkan berkasnya melalui email ke UPT TIK."
+        },
+
+        "kontak": {
+            "label": "Kontak Bantuan",
+            "value": "UPT TIK Universitas Malikussaleh, Email: puskom@unimal.ac.id, Telp: +62.645.41373"
+        },
+
+        "pengguna": {
+            "label": "Penerima Layanan",
+            "value": "Seluruh sivitas akademika Universitas Malikussaleh (mahasiswa, dosen, karyawan/staf)"
+        }
     }
 }

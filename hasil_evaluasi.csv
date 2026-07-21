@@ -1,0 +1,101 @@
+﻿question,true_intent,predicted_intent,correct
+"Sebutkan program studi Universitas Malikussaleh""",kampus_program_studi,kampus_program_studi,TRUE
+Daftar lengkap program studi UNIMAL,kampus_program_studi,kampus_program_studi,TRUE
+Unimal memiliki program studi apa saja?,kampus_program_studi,kampus_program_studi,TRUE
+Informasi program studi Universitas Malikussaleh,kampus_program_studi,kampus_program_studi,TRUE
+Saya ingin mengetahui seluruh program studi di Unimal.,kampus_program_studi,kampus_program_studi,TRUE
+Tolong tampilkan program studi yang ada di Universitas Malikussaleh.,kampus_program_studi,kampus_program_studi,TRUE
+Bisakah Anda menampilkan daftar jurusan di Unimal?,kampus_program_studi,kampus_program_studi,TRUE
+Apa saja program studi yang tersedia di Unimal?,kampus_program_studi,fakultas_info,FALSE
+Program studi yang tersedia di kampus Unimal apa saja?,kampus_program_studi,kampus_program_studi,TRUE
+Tolong tampilkan seluruh jurusan yang ada di Universitas Malikussaleh.,kampus_program_studi,kampus_program_studi,TRUE
+Fakultas apa saja yang ada di Universitas Malikussaleh?,kampus_fakultas,kampus_fakultas,TRUE
+Apa saja fakultas yang dimiliki oleh Unimal?,kampus_fakultas,kampus_fakultas,TRUE
+Universitas Malikussaleh memiliki berapa fakultas?,kampus_fakultas,kampus_fakultas,TRUE
+Tolong tampilkan daftar fakultas di Unimal.,kampus_fakultas,kampus_program_studi,FALSE
+Fakultas yang tersedia di Universitas Malikussaleh apa saja?,kampus_fakultas,kampus_fakultas,TRUE
+Saya ingin mengetahui seluruh fakultas yang ada di Unimal.,kampus_fakultas,kampus_fakultas,TRUE
+Sebutkan nama-nama fakultas di Universitas Malikussaleh.,kampus_fakultas,kampus_fakultas,TRUE
+Bisakah Anda memberikan daftar fakultas yang ada di Unimal?,kampus_fakultas,kampus_fakultas,TRUE
+Ada fakultas apa saja di kampus Universitas Malikussaleh?,kampus_fakultas,kampus_fakultas,TRUE
+Unimal memiliki fakultas apa saja saat ini?,kampus_fakultas,kampus_fakultas,TRUE
+Siapa Rektor Universitas Malikussaleh saat ini?,pimpinan_info,pimpinan_info,TRUE
+Siapa nama rektor Unimal sekarang?,pimpinan_info,pimpinan_info,TRUE
+Siapa Wakil Rektor I Universitas Malikussaleh?,pimpinan_info,pimpinan_info,TRUE
+Siapa yang menjabat sebagai WR 1 di Unimal?,pimpinan_info,pimpinan_info,TRUE
+Siapa Wakil Rektor II Universitas Malikussaleh?,pimpinan_info,pimpinan_info,TRUE
+Siapa nama WR 2 di Universitas Malikussaleh?,pimpinan_info,pimpinan_info,TRUE
+Siapa Wakil Rektor III Universitas Malikussaleh?,pimpinan_info,pimpinan_info,TRUE
+Siapa yang menjabat sebagai WR 3 di Unimal?,pimpinan_info,pimpinan_info,TRUE
+Siapa saja pimpinan Universitas Malikussaleh saat ini?,pimpinan_info,pimpinan_info,TRUE
+Tolong tampilkan informasi pimpinan Universitas Malikussaleh.,pimpinan_info,kampus_fakultas,FALSE
+Apa saja program studi di Fakultas Teknik?,fakultas_info,fakultas_info,TRUE
+Saya ingin mengetahui informasi tentang Fakultas Hukum Unimal.,fakultas_info,kampus_fakultas,FALSE
+Apa saja informasi mengenai Fakultas Ekonomi dan Bisnis?,fakultas_info,fakultas_info,TRUE
+Tolong jelaskan profil Fakultas Kedokteran Universitas Malikussaleh.,fakultas_info,fakultas_info,TRUE
+Bagaimana informasi mengenai Fakultas Pertanian di Unimal?,fakultas_info,prodi_info,FALSE
+Ceritakan tentang Fakultas Ilmu Sosial dan Ilmu Politik Unimal.,fakultas_info,fakultas_info,TRUE
+Apa informasi yang tersedia mengenai Fakultas Keguruan dan Ilmu Pendidikan?,fakultas_info,prodi_info,FALSE
+Saya ingin mengetahui profil Fakultas Teknik Unimal.,fakultas_info,fakultas_info,TRUE
+Dapatkah Anda memberikan informasi mengenai Fakultas Hukum?,fakultas_info,prodi_info,FALSE
+Tolong tampilkan informasi Fakultas Ekonomi dan Bisnis Universitas Malikussaleh.,fakultas_info,fakultas_info,TRUE
+Berikan informasi mengenai Program Studi Informatika Universitas Malikussaleh.,prodi_info,kampus_profil,FALSE
+Saya ingin mengetahui profil Program Studi Sistem Informasi.,prodi_info,prodi_info,TRUE
+Apa saja informasi mengenai Program Studi Teknik Sipil di Unimal?,prodi_info,fakultas_info,FALSE
+Tolong jelaskan tentang Program Studi Teknik Mesin Universitas Malikussaleh.,prodi_info,prodi_info,TRUE
+Bagaimana informasi mengenai Program Studi Manajemen?,prodi_info,prodi_info,TRUE
+Saya ingin mengetahui informasi tentang Program Studi Akuntansi Unimal.,prodi_info,prodi_info,TRUE
+Dapatkah Anda menjelaskan profil Program Studi Ilmu Hukum?,prodi_info,prodi_info,TRUE
+Apa informasi yang tersedia mengenai Program Studi Kedokteran?,prodi_info,fakultas_info,FALSE
+Tolong tampilkan informasi mengenai Program Studi Agribisnis Universitas Malikussaleh.,prodi_info,kampus_program_studi,FALSE
+Ceritakan tentang Program Studi Teknik Kimia di Unimal.,prodi_info,prodi_info,TRUE
+Bagaimana cara mengakses email unimal Universitas Malikussaleh?,layanan_tik,kampus_kontak,FALSE
+Saya tidak bisa login ke portal akademik.  harus bagaimana?,layanan_tik,layanan_tik,TRUE
+Bagaimana cara melakukan reset password akun mahasiswa?,layanan_tik,layanan_tik,TRUE
+Siapa yang harus dihubungi jika mengalami masalah pada akun email?,layanan_tik,layanan_tik,TRUE
+Bagaimana cara mendapatkan akun email mahasiswa Unimal?,layanan_tik,kampus_kontak,FALSE
+Dimana saya dapat menghubungi layanan TIK Universitas Malikussaleh?,layanan_tik,kampus_kontak,FALSE
+Bagaimana prosedur pengajuan bantuan teknis untuk sistem email kampus?,layanan_tik,layanan_tik,TRUE
+Saya lupa password email unimal.  bagaimana cara mengatasinya?,layanan_tik,layanan_tik,TRUE
+Bagaimana cara menggunakan email kampus?,layanan_tik,layanan_tik,TRUE
+Apakah tersedia layanan bantuan untuk masalah email mahasiswa?,layanan_tik,layanan_tik,TRUE
+Dimana lokasi Universitas Malikussaleh?,kampus_lokasi,kampus_lokasi,TRUE
+Universitas Malikussaleh berada di kota mana?,kampus_lokasi,kampus_lokasi,TRUE
+Alamat Universitas Malikussaleh dimana?,kampus_lokasi,kampus_lokasi,TRUE
+Dimana letak kampus utama Universitas Malikussaleh?,kampus_lokasi,kampus_lokasi,TRUE
+Universitas Malikussaleh berada di daerah mana?,kampus_lokasi,kampus_lokasi,TRUE
+Dimana lokasi Kampus Bukit Indah Universitas Malikussaleh?,kampus_lokasi,kampus_lokasi,TRUE
+Dimana lokasi Kampus Reuleut Universitas Malikussaleh?,kampus_lokasi,kampus_lokasi,TRUE
+Universitas Malikussaleh terletak di provinsi apa?,kampus_lokasi,kampus_lokasi,TRUE
+Kampus Universitas Malikussaleh berada di Aceh bagian mana?,kampus_lokasi,kampus_lokasi,TRUE
+Saya ingin mengetahui lokasi Universitas Malikussaleh.,kampus_lokasi,kampus_lokasi,TRUE
+Bagaimana sejarah berdirinya Universitas Malikussaleh?,kampus_sejarah,kampus_sejarah,TRUE
+Kapan Universitas Malikussaleh didirikan?,kampus_sejarah,kampus_sejarah,TRUE
+Ceritakan sejarah Universitas Malikussaleh.,kampus_sejarah,kampus_sejarah,TRUE
+Bagaimana awal mula berdirinya Unimal?,kampus_sejarah,kampus_sejarah,TRUE
+Siapa pendiri Universitas Malikussaleh?,kampus_sejarah,pimpinan_info,FALSE
+Mengapa universitas ini diberi nama Malikussaleh?,kampus_sejarah,kampus_fakultas,FALSE
+Saya ingin tau sejarah unimal,kampus_sejarah,kampus_sejarah,TRUE
+Bagaimana perkembangan Universitas Malikussaleh sejak didirikan?,kampus_sejarah,kampus_sejarah,TRUE
+Kapan Universitas Malikussaleh berubah menjadi perguruan tinggi negeri?,kampus_sejarah,kampus_sejarah,TRUE
+Saya ingin mengetahui sejarah Universitas Malikussaleh.,kampus_sejarah,kampus_sejarah,TRUE
+Bagaimana jam kerja Universitas Malikussaleh?,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Jam operasional Universitas Malikussaleh mulai pukul berapa?,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Sampai jam berapa pelayanan di Universitas Malikussaleh?,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Kapan jam pelayanan administrasi di Unimal?,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Universitas Malikussaleh buka dari hari apa sampai hari apa?,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Apakah Universitas Malikussaleh buka pada hari Sabtu?,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Saya ingin mengetahui jam operasional Unimal.,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Berapa jam kerja pegawai di Universitas Malikussaleh?,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Kapan layanan kampus mulai beroperasi setiap hari?,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Tolong tampilkan informasi jam kerja Universitas Malikussaleh.,kampus_jam_kerja,kampus_jam_kerja,TRUE
+Apa visi Universitas Malikussaleh?,kampus_visi_misi,kampus_visi_misi,TRUE
+Apa misi Universitas Malikussaleh?,kampus_visi_misi,kampus_visi_misi,TRUE
+Apa visi dan misi Universitas Malikussaleh?,kampus_visi_misi,kampus_visi_misi,TRUE
+Saya ingin mengetahui visi Unimal.,kampus_visi_misi,kampus_visi_misi,TRUE
+Tolong tampilkan misi Universitas Malikussaleh.,kampus_visi_misi,kampus_fakultas,FALSE
+Apa tujuan Universitas Malikussaleh didirikan?,kampus_visi_misi,kampus_visi_misi,TRUE
+Apa cita-cita atau arah pengembangan Universitas Malikussaleh?,kampus_visi_misi,kampus_visi_misi,TRUE
+Bagaimana visi yang dimiliki oleh Universitas Malikussaleh?,kampus_visi_misi,kampus_visi_misi,TRUE
+Dapatkah Anda menjelaskan visi dan misi Unimal?,kampus_visi_misi,kampus_visi_misi,TRUE
+Saya ingin mengetahui tujuan dan misi Universitas Malikussaleh.,kampus_visi_misi,kampus_visi_misi,TRUE

@@ -25,7 +25,6 @@ def root():
 
 @app.post("/chat")
 def chat(request: ChatRequest):
-
     result = bot.reply(request.message)
-
+    print(result)
     return result
